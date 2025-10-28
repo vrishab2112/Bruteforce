@@ -1,0 +1,464 @@
+{
+  "name": "Bruteforce",
+  "nodes": [
+    {
+      "parameters": {
+        "dataType": "binary",
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.documentDefaultDataLoader",
+      "typeVersion": 1.1,
+      "position": [
+        -576,
+        224
+      ],
+      "id": "f4da1305-b800-45ab-b9a0-443cd54100b1",
+      "name": "Default Data Loader"
+    },
+    {
+      "parameters": {
+        "operation": "download",
+        "fileId": {
+          "__rl": true,
+          "value": "={{ $json.id }}",
+          "mode": "id"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleDrive",
+      "typeVersion": 3,
+      "position": [
+        -880,
+        0
+      ],
+      "id": "6db149b7-2852-40c4-9fe0-a081d20c02ba",
+      "name": "Download file",
+      "credentials": {
+        "googleDriveOAuth2Api": {
+          "id": "EiWE8DqdIdiawZgh",
+          "name": "Google Drive account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.embeddingsOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        -752,
+        320
+      ],
+      "id": "5eb90f61-fe56-4874-8a4a-1ef11216f276",
+      "name": "Embedding model",
+      "credentials": {
+        "openAiApi": {
+          "id": "gXZTtjz2gSyosHYH",
+          "name": "OpenAi account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "={{\n  (\n    $json.question\n    ?? $json.body?.question\n    ?? $json.chatInput\n    ?? $json.body?.text\n    ?? ''\n  ).trim()\n  + (\n    $json.googleDocContent\n      ? '\\nRefer to the following relevant extracted content from the fridge manual:\\n' + $json.googleDocContent\n      : ''\n  )\n}}\n\nYou are an AI assistant that answers questions by first considering the relevant content provided above from a trusted manual. \nUse this content as your primary source. Even if the user's wording does not exactly match, use your understanding to infer the best relevant answer.\nIf the answer is not available in the content, say \\\"The information is not available in the manual.\\\"\nRespond concisely and accurately based on the above information only.",
+        "options": {
+          "systemMessage": "\nYour name is VV, and you are a Robot at exhibitions/festivals/Flea markets that retrieves and analyzes information from a google docs,google sheets,vector store to answer user questions. Any question related to the \"product\" ALWAYS refer to the google docs. Any question related to \"SALES\" refer to the google sheets. You also have two documents attached as tools. One is Google Docs, which consists of details about the products, stall number, phone number etc etc. Google Sheets is the 2nd tool that records all the sales details, vendor name, time of product sold, etc, etc. You must intelligently answer users' queries with the help of these tools.\n\n## Your Task\n\n1. **Search the vector store** - Use similarity search to find relevant documents and data\n2. **Analyze the results** - Understand what the retrieved data tells you\n3. **Provide clear answers** - Give helpful responses based on the data you found\n4. *Look Up the Google Sheets* - Understand the retrieved data and answer users' query from sales data\n5. *Look Up the Google Docs* - Any question related to the product you must look into the google docs.\n6.*If received output from image analyzer* - the image analyzer will give you input and you answer according to the google docs attached. ALWAYS GO THROUGH THE GOOGLE DOCS IF THE INPUT RECEIVED IS FROM IMAGE ANALYZER \n\n## How to Work with Vector Data\n\n### Search Process\n- Use the user's question to search for similar content\n- Retrieve multiple relevant chunks of data\n- Look for patterns and connections across the results\n- Consider both exact matches and conceptually similar information\n\n### Analysis Guidelines\n- Read through all retrieved documents carefully\n- Identify key information that answers the user's question\n- Note any conflicting or incomplete information\n- Look for trends, patterns, or insights in the data\n\n### Response Format\n- Start with a direct answer to the user's question\n- Support your answer with specific information from the data\n- Cite which documents or sources your information comes from\n- Be clear about what you found and what you didn't find\n\n## Response Guidelines\n\n### When You Find Good Data\n- Give a confident, detailed answer\n- Include relevant quotes or data points\n- Explain how the information relates to their question\n- Offer additional insights if available\n\n### When Data is Limited\n- Be honest about what information is available\n- Share what you did find, even if partial\n- Suggest related questions you could help with\n- Don't make up information not in the data\n\n### When No Relevant Data is Found\n- Clearly state that you couldn't find relevant information\n- Suggest alternative ways to phrase the question\n- Offer to search for related topics\n\n## Key Principles\n\n- Always base answers on the retrieved data\n- Be transparent about your sources\n- Admit when information is unclear or missing\n- Help users understand what the data shows\n- Ask clarifying questions if the user's request is vague\n\nRemember: Your strength is finding and explaining information that already exists in the vector store and Google Sheets tool. Focus on being accurate and helpful with the data you can retrieve."
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 2.2,
+      "position": [
+        368,
+        48
+      ],
+      "id": "84540140-920e-457f-840b-1fe80d79f824",
+      "name": "AI Agent"
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "gpt-4",
+          "mode": "list",
+          "cachedResultName": "gpt-4"
+        },
+        "options": {
+          "maxTokens": 64
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        288,
+        240
+      ],
+      "id": "2211eec8-a374-4062-a351-0dbd015a4f26",
+      "name": "Model",
+      "credentials": {
+        "openAiApi": {
+          "id": "gXZTtjz2gSyosHYH",
+          "name": "OpenAi account"
+        }
+      }
+    },
+    {
+      "parameters": {},
+      "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
+      "typeVersion": 1.3,
+      "position": [
+        -416,
+        528
+      ],
+      "id": "3318d622-a705-4e72-b66b-c6ee5075cb30",
+      "name": "Simple Memory",
+      "disabled": true
+    },
+    {
+      "parameters": {
+        "pollTimes": {
+          "item": [
+            {
+              "mode": "everyMinute"
+            }
+          ]
+        },
+        "triggerOn": "specificFolder",
+        "folderToWatch": {
+          "__rl": true,
+          "value": "1bqdlhR4lIkdiWzczjq86q_Lpo0MzGuas",
+          "mode": "list",
+          "cachedResultName": "Knowledge store",
+          "cachedResultUrl": "https://drive.google.com/drive/folders/1bqdlhR4lIkdiWzczjq86q_Lpo0MzGuas"
+        },
+        "event": "fileCreated",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleDriveTrigger",
+      "typeVersion": 1,
+      "position": [
+        -1088,
+        0
+      ],
+      "id": "97d07abb-d2b4-432d-8e7d-9e7dfd7b3583",
+      "name": "File uploaded",
+      "credentials": {
+        "googleDriveOAuth2Api": {
+          "id": "EiWE8DqdIdiawZgh",
+          "name": "Google Drive account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "mode": "insert",
+        "memoryKey": {
+          "__rl": true,
+          "value": "vector_store_key",
+          "mode": "list",
+          "cachedResultName": "vector_store_key"
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.vectorStoreInMemory",
+      "typeVersion": 1.3,
+      "position": [
+        -688,
+        0
+      ],
+      "id": "d28bad55-916e-4b96-ab60-1c9c657bb46b",
+      "name": "Insert documents"
+    },
+    {
+      "parameters": {
+        "mode": "retrieve-as-tool",
+        "toolDescription": "Use this tool to retrieve any information required.",
+        "memoryKey": {
+          "__rl": true,
+          "value": "vector_store_key",
+          "mode": "list",
+          "cachedResultName": "vector_store_key"
+        },
+        "topK": 10
+      },
+      "type": "@n8n/n8n-nodes-langchain.vectorStoreInMemory",
+      "typeVersion": 1.3,
+      "position": [
+        -1088,
+        384
+      ],
+      "id": "21360efe-3cb1-4e99-a149-903902a595a0",
+      "name": "Retrieve documents"
+    },
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "8fa146ba-9ca5-4abd-ac33-fac7fd33e7ec",
+        "responseMode": "responseNode",
+        "options": {
+          "binaryPropertyName": "data0"
+        }
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [
+        112,
+        48
+      ],
+      "id": "d1b5eb11-d53f-46f9-90a5-d641b372d8c2",
+      "name": "Webhook",
+      "webhookId": "8fa146ba-9ca5-4abd-ac33-fac7fd33e7ec"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "c0a8c717-e273-4b76-a6e5-e7da37342857",
+              "name": "reply",
+              "value": "={{ $json.output }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        720,
+        -80
+      ],
+      "id": "e1acf759-d48f-4db5-9408-369731c3f56f",
+      "name": "Edit Fields"
+    },
+    {
+      "parameters": {
+        "operation": "get",
+        "documentURL": "https://docs.google.com/document/d/1B3YpnUNfXFNuk1md1LGA-jiiln-N-NV3YUu1qPKGpLA/edit?tab=t.0"
+      },
+      "type": "n8n-nodes-base.googleDocsTool",
+      "typeVersion": 2,
+      "position": [
+        656,
+        240
+      ],
+      "id": "8b5505b3-5491-46fb-86a1-e574032f5ef3",
+      "name": "Get a document in Google Docs",
+      "credentials": {
+        "googleDocsOAuth2Api": {
+          "id": "6SVybpDUehbDVgq8",
+          "name": "Google Docs account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "c0a8c717-e273-4b76-a6e5-e7da37342857",
+              "name": "reply",
+              "value": "={{ $json.output }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        720,
+        80
+      ],
+      "id": "0efb1894-14c2-4c25-b854-dac7ba04cfbf",
+      "name": "Edit Fields1"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.4,
+      "position": [
+        928,
+        -80
+      ],
+      "id": "fe54a79a-61ae-4204-a74b-4d7ebf019def",
+      "name": "Respond to Webhook"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.4,
+      "position": [
+        928,
+        80
+      ],
+      "id": "9ea97c1f-3f0f-4a7b-a8ce-2239a6205731",
+      "name": "Respond to Webhook1"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.textClassifier",
+      "typeVersion": 1.1,
+      "position": [
+        -208,
+        592
+      ],
+      "id": "622872f8-4f11-4181-8406-6e5faca2c508",
+      "name": "Text Classifier",
+      "disabled": true
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Default Data Loader": {
+      "ai_document": [
+        [
+          {
+            "node": "Insert documents",
+            "type": "ai_document",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Download file": {
+      "main": [
+        [
+          {
+            "node": "Insert documents",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Embedding model": {
+      "ai_embedding": [
+        [
+          {
+            "node": "Retrieve documents",
+            "type": "ai_embedding",
+            "index": 0
+          },
+          {
+            "node": "Insert documents",
+            "type": "ai_embedding",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Model": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Simple Memory": {
+      "ai_memory": [
+        []
+      ]
+    },
+    "File uploaded": {
+      "main": [
+        [
+          {
+            "node": "Download file",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Retrieve documents": {
+      "ai_tool": [
+        []
+      ]
+    },
+    "Webhook": {
+      "main": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "AI Agent": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Edit Fields1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields": {
+      "main": [
+        [
+          {
+            "node": "Respond to Webhook",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get a document in Google Docs": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields1": {
+      "main": [
+        [
+          {
+            "node": "Respond to Webhook1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "4c048f12-522b-426d-8cc9-9ffb965d03ce",
+  "meta": {
+    "templateId": "knowledge_store_agent_with_google_drive",
+    "templateCredsSetupCompleted": true,
+    "instanceId": "9aed0444f720b8714868d2cb5080e1398ac36263c8f5bee90c23d87074209905"
+  },
+  "id": "pINqYEwmnwZcIqXv",
+  "tags": []
+}
