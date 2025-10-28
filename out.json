@@ -1,0 +1,850 @@
+{
+  "chunks": [
+    {
+      "page": 3,
+      "chunk_text": "FOREWORD\nThe digital Owner's Manual is an essential\npart of your vehicle a rich document which\nfamiliarizes you with the vehicle by provid-\ning information such as features, warnings,\noperations and equipment description etc.\nPlease read this manual carefully before\noperating your new MARUTI SUZUKI vehi-\ncle and review the manual from time to\ntime.It is recommended to download this\nmanual (from “Maruti Suzuki Rewards”\nmobile application with your registered\nmobile number) and save a soft copy of\nthe same for easy access all times. Please\nvisit MARUTI SUZUKI authorised work-\nshop for availing any service.\nTo prolong the life of your vehicle and\nreduce maintenance cost, the periodic\nmaintenance must be carried out accord-\ning \nto \n“PERIODIC \nMAINTENANCE\nSCHEDULE” described in “INSPECTION\nAND MAINTENANCE” section of this man-\nual. It is essential for preventing trouble\nand accidents to ensure your satisfaction\nand safety.\nDaily inspection and care as per “DAILY\nINSPECTION CHECKLIST” described in\nthe “OPERATING YOUR VEHICLE” sec-\ntion of this manual is essential for prolong-\ning the life of the vehicle and for safe\ndriving.\nVehicle and the available features/acces-\nsories therein should be used and plied by\nthe owner/user in accordance with the\napplicable legal requirements.\nMARUTI SUZUKI INDIA LIMITED believes\nin conservation and protection of Earth’s\nnatural resources.\nTo that end, we encourage every vehicle\nowner to recycle, trade-in or properly dis-\npose of, as appropriate, used Engine Oil,\ncoolant and other fluids, batteries and\ntyres etc.\nMARUTI SUZUKI INDIA LIMITED\nAll information in this manual is based\non the latest product information avail-\nable at the time of publication. Due to\nimprovements or other changes, there\nmay be discrepancies between informa-\ntion in this manual and your vehicle.\nMARUTI \nSUZUKI \nINDIA \nLIMITED\nreserves the right to make production\nchanges at any time, without notice and\nwithout incurring any obligation to\nmake the same or similar changes to\nvehicles previously built or sold.\nThis vehicle may not comply with stan-\ndards or regulations of other countries.\nBefore attempting to register this vehi-\ncle in any other country, check all appli-\ncable regulations and make any neces-\nsary modifications.",
+      "question_answer_pairs": [
+        {
+          "question": "What are some important steps to ensure the safety and longevity of my vehicle according to the manual?",
+          "answer": "According to the manual, ensuring the safety and longevity of your vehicle involves carrying out periodic maintenance as outlined in the 'Periodic Maintenance Schedule,' performing daily inspections using the 'Daily Inspection Checklist,' and adhering to the legal requirements for the use of vehicle features and accessories."
+        },
+        {
+          "question": "Why is it recommended to download the digital version of the Owner's Manual and keep a soft copy?",
+          "answer": "It is recommended to download the digital version of the Owner's Manual and keep a soft copy because it allows for easy access anytime, making it easier to refer to the information when operating the vehicle or seeking maintenance services."
+        },
+        {
+          "question": "How does MARUTI SUZUKI INDIA LIMITED contribute to environmental conservation?",
+          "answer": "MARUTI SUZUKI INDIA LIMITED encourages vehicle owners to recycle, trade-in, or dispose of used Engine Oil, coolant, batteries, and tyres in an environmentally friendly manner, thereby contributing to the conservation and protection of Earth’s natural resources."
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "chunk_text": "IMPORTANT\nWARNING/ \n CAUTION/NOTICE/\nNOTE\nPlease read this manual and follow its\ninstructions carefully. To emphasize spe-\ncial information, the symbol and the words\nWARNING, \nCAUTION, \nNOTICE \nand\nNOTE have special meanings. Pay partic-\nular attention to messages highlighted by\nthese signal words:\nNOTE:\nIndicates special information to make\nmaintenance easier or instructions clearer.\n75F135\nThe circle with a slash in this manual\nmeans “Don’t do this” or “Don’t let this hap-\npen”.\nNOTE:\n• Words like car, model/variant are invari-\nably used in this manual to denote the\n“Vehicle”.\n• Pictorial representations used in this\nmanual are for reference purposes only.\nMODIFICATION WARNING\nWARNING\nIndicates a potential hazard that\ncould result in death or serious\ninjury.\nCAUTION\nIndicates a potential hazard that\ncould result in minor or moderate\ninjury.\nNOTICE\nIndicates a potential hazard that\ncould result in vehicle damage.\nWARNING\nDo not modify your vehicle. Modifica-\ntion could adversely affect safety,\nhandling, performance, or durability\nand may violate governmental regula-\ntions. In addition, damage or perfor-\nmance \nproblems \nresulting \nfrom\nmodification shall not be covered\nunder warranty.\nNOTICE\nImproper installation of mobile commu-\nnication equipment such as cellular\ntelephones, CB (Citizen’s Band) radios\nmay cause electronic interference with\nyour vehicle’s ignition system, result-\ning in vehicle performance problems.\nConsult your Maruti Suzuki authorised\nworkshop or qualified service techni-\ncian for advice on installing such\nmobile communication equipment.\nNOTICE\nThe diagnostic connector of your\nvehicle is prepared only for the spe-\ncific diagnostic tool for inspection\nand service purpose. Connecting any\nother tool or device may interfere\nwith electronic parts operations and\ncause running out of batteries.",
+      "question_answer_pairs": [
+        {
+          "question": "What is the significance of the 'circle with a slash' symbol in the manual?",
+          "answer": "The circle with a slash in the manual indicates ‘Don’t do this’ or ‘Don’t let this happen’. It is used to highlight actions or situations that should be avoided."
+        },
+        {
+          "question": "What does the 'Notice' section in the manual primarily aim to convey?",
+          "answer": "The 'Notice' sections in the manual primarily aim to alert users about potential hazards that could lead to vehicle damage or other issues, emphasizing the importance of avoiding these hazards."
+        },
+        {
+          "question": "Why is it important not to modify the vehicle according to the warning provided?",
+          "answer": "Modifying the vehicle could adversely affect its safety, handling, performance, or durability, and might also violate governmental regulations. Additionally, any resulting damage or performance problems would not be covered under warranty."
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "chunk_text": "Vehicle may \n, meet with an \n or \n due to\n1. Installation of\n- High wattage bulbs\n- Non genuine lamps / horns\n- Modified suspension / wheels\n- Non genuine  parts / accessories etc.\n2. Retrofitment of LPG / CNG fuel systems/kits.\n3. Usage of domestic LPG.\n4. Short circuiting due to tampering of wiring harness.\nCAUTION: DO NOT STORE OR CARRY INFLAMMABLE MATERIALS IN THE VEHICLE.\nbreak-down\naccident\ncatch fire\nAvoid driving into or starting the vehicle in a \nheavily water logged area. Vehicle may break-\ndown or engine may fail due to\n1. Water entry into the engine (which may lead to hydrostatic lock).\n2. Short circuiting of the electrical systems.\nIf the vehicle is stuck in deep water, \n \nstart / crank the vehicle until the level of water \ndrops below the level of exhaust pipe.\nNOTE:\nIF THE VEHICLE IS SUBMERGED IN WATER, REPORT  TO  THE  NEAREST  \nAUTHORIZED  WORKSHOP.\ndo not\n“WARNING”",
+      "question_answer_pairs": [
+        {
+          "question": "What are some common reasons a vehicle might catch fire?",
+          "answer": "A vehicle might catch fire due to the installation of high wattage bulbs, non-genuine lamps or horns, modified suspension/wheels, or non-genuine parts/accessories. Additionally, using domestic LPG, short-circuiting due to wiring harness tampering, and retrofitting LPG/CNG fuel systems can also cause fires."
+        },
+        {
+          "question": "Why should vehicles not be driven in heavily waterlogged areas?",
+          "answer": "Vehicles should not be driven in heavily waterlogged areas because water entering the engine can lead to hydrostatic lock, which can cause the vehicle to break down or the engine to fail. Also, short-circuiting of electrical systems due to water intrusion poses a risk."
+        },
+        {
+          "question": "What should you do if your vehicle gets stuck in deep water?",
+          "answer": "If your vehicle gets stuck in deep water, you should start the vehicle until the level of water drops below the level of the exhaust pipe. This helps prevent the water from entering the engine, reducing the risk of breakdown or failure."
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "chunk_text": "1. Retro-fitment of LPG / CNG kit may deteriorate vehicle performance, reduce engine & engine related component’s life and \nalso warranty will be null and void for such vehicles.\n2. Do not use domestic LPG/LPG cylinder for your factory fitted LPG vehicles.\n3. Usage of domestic LPG for running vehicles is prohibited as per law.\n4. Do not remove company fitted LPG/CNG kit to install some other kit. It may affect vehicle performance and may\ncause fire.\n5. Drive slowly on wet roads. Tires may slip while braking at higher speeds due to aquaplaning.(reduced contact area \nbetween tire and road due to presence of water)\n6. Do not leave engine running in garages or confined areas, with passengers inside. This may result in accumulation of carbon-\nmonoxide in cabin and may lead to suffocation or breathing problems.\n7. Do not park vehicle on dry leaves or grass. This may lead to fire due to hot catalytic converter, igniting the dry leaves/grass.\n8. If the vehicle is equipped with CNG/LPG, ensure availability of fire extinguisher in the vehicle all the time.\n9. Always wear seat belt at all the times.\n10.Do not use mobile phone while driving.\n11.Avoid Smoking in the car, live bud thrown in car may cause fire.\n12.Do not put any body part under the vehicle when it is supported on a Jack.\n13.Do not use non-genuine accessories in your vehicle.\n14.Do not fit accessories from unauthorized workshops/sources.\n15.Usage of non-approved electrical accessories in your vehicle may result in spark, fire or personal injury.\n16.Do not use camphor, incense sticks inside cabin room. Doing so may cause fire.\n17.Avoid usage of cellular phones while refueling. Electric current and/or electronic interference from cellular phones can\npotentially ignite fuel vapors and cause fire.\n18.Avoid entry inside vehicle immediately once after you have begun refueling. You can generate a build up of static electricity by\ntouching, rubbing or sliding against any item or fabric capable of producing static electricity. Static electricity discharge can\nignite fuel vapors and may causing a fire.\n19.Do not check the engine room / open the hood near the fire area (Outside the vehicle). Fuel, washer fluid, etc. are flammable\noils that may cause fire.\n20.Avoid driving when vehicle has met with an accident . Before driving, Please contact with authorized MSIL dealership.\n“CAUTION”",
+      "question_answer_pairs": [
+        {
+          "question": "What should be done if the vehicle's CNG/LPG system fails and causes a minor leak?",
+          "answer": "If there is a minor leak, do not attempt to fix it yourself; instead, stop safely, turn off the engine, and evacuate the area. Seek professional assistance immediately."
+        },
+        {
+          "question": "Why is it important to never leave the engine running in enclosed spaces with passengers?",
+          "answer": "Leaving the engine running in enclosed spaces with passengers can lead to carbon monoxide buildup, which is toxic and can cause suffocation or breathing difficulties."
+        },
+        {
+          "question": "What are the consequences of using non-genuine electrical accessories in the vehicle?",
+          "answer": "Using non-genuine electrical accessories can result in sparking, fires, or even personal injury due to their potentially lower quality and safety standards."
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "chunk_text": "To experience and use the Digital Owner’s Manual, download Maruti Suzuki app \nMaruti Suzuki Rewards app ensures a hassle free car ownership \nexperience. Get easy access to all the services and information you \nneed by downloading the app\nHow to download Owners manual from Maruti Suzuki application\nStep 1: Download “Maruti Suzuki Rewards” application from apple app store / google play store on your mobile phone\nStep 2: Input registered mobile number and the OTP received from SMS\nStep 3: Select “S-Assist BOT” icon and click “View Owner’s Manual” to access digital Owner’s Manual\nStep 4: Click “Down Arrow” download and save Owner’s Manual on your mobile phone\nNow, the Owner's Manual is available on your mobile phone for reference at all times.\n(For assistance, contact  Maruti Suzuki authorised workshop)",
+      "question_answer_pairs": [
+        {
+          "question": "What are the steps required to download the Maruti Suzuki Owners' Manual?",
+          "answer": "The steps to download the Maruti Suzuki Owners' Manual include: Downloading the ‘Maruti Suzuki Rewards’ application, entering your registered mobile number and receiving an OTP via SMS, selecting the 'S-Assist BOT' icon, clicking 'View Owner’s Manual', and finally clicking the 'Down Arrow' to download and save the Owner’s Manual on your mobile phone."
+        },
+        {
+          "question": "Can I view the Owners' Manual on my mobile device without downloading it?",
+          "answer": "No, according to the given context, you can only view the Owners' Manual within the Maruti Suzuki Rewards application and download it onto your mobile device for offline access."
+        },
+        {
+          "question": "Who should I contact if I need further assistance with downloading or accessing the Owners' Manual?",
+          "answer": "If you require any assistance with downloading or accessing the Owners' Manual, you should contact a Maruti Suzuki authorised workshop for help."
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "chunk_text": "WARRANTY POLICY\nMaruti Suzuki India Limited (hereinafter called “Maruti Suzuki”),\nwarrants that each new Maruti Suzuki vehicle distributed in India\nby Maruti Suzuki and sold by a Maruti Suzuki authorised dealer\nwill be free, under normal use and service, from any defects in\nmaterial and workmanship at the time of manufacture SUBJECT\nTO THE FOLLOWING TERMS AND CONDITIONS:\n(1) Qualification:\nTo qualify for this warranty the vehicle must be delivered by a\nMaruti Suzuki authorised dealer and set-up, and serviced by a\nMaruti Suzuki authorised workshop.\n(2) Term:\nThe term of the warranty shall be twenty-four (24) months or\n40,000 kilometers (whichever occurs first) from the date of\ninvoice to the first owner.\n(3) Maruti Suzuki Warranty Obligation:\nIf any defect(s) should be found in a Maruti Suzuki vehicle within\nthe term stipulated above, Maruti Suzuki’s only obligation is to\nrepair or replace at its sole discretion any part shown to be defec-\ntive, with a new part or the equivalent at no cost to the owner for\nparts or labor, when Maruti Suzuki acknowledges that such a\ndefect is attributable to faulty material or workmanship at the time\nof manufacture. Such defective parts, which have been replaced,\nwill become the property of Maruti Suzuki. The owner is responsi-\nble for any repair or replacements which are not covered by this\nwarranty. The decision of Maruti Suzuki shall be final & binding.\n(4) Limitation:\nThis warranty shall not apply to: \n(a)\nNormal maintenance service required other than the three\nfree services, including without limitation, oil and fluid\nchanges, Consumables, headlight aiming, fastener retighten-\ning, wheel balancing, wheel alignment and tyre rotation,\ncleaning of injectors, adjustments of clutch and valve clear-\nance.\n(b)\nThe normal wear of parts including without limitation, bulbs,\ntyres* and tubes, spark plugs, belts, hoses, filters, wiper\nblades, brushes, contact points, fuses, clutch disc, brake\nshoes, brake pads, cable and all rubber parts (except oil seal\nand glass run).\n(c)\nAny vehicle which has been used for competition, rallies or\nracing.\n(d)\nAny repairs or replacement arising from accidents or colli-\nsion.\n(* - If there is a complaint related to tyre, the customer may contact\nrespective tyre manufacturer.)\nNOTICE\nFor K15C Engine Model:\nMaruti Suzuki offers warranty of sixty (60) months or\n1,00,000 kilometers (whichever occurs first) for Lithium-ion\nbattery & Integrated Starter Generator (ISG) in petrol model\nfrom the date of invoice to the first owner.\nFor M15D Engine Model:\nMaruti Suzuki offers warranty of ninety six (96) months or\n1,60,000 kilometers (whichever occurs first) for Hybrid Elec-\ntric Vehicle (HEV) battery from the date of invoice to the first\nowner.",
+      "question_answer_pairs": [
+        {
+          "question": "How long is the warranty period for a Maruti Suzuki vehicle?",
+          "answer": "The standard warranty period is 24 months or 40,000 kilometers, whichever occurs first."
+        },
+        {
+          "question": "What is excluded from the warranty coverage according to the policy?",
+          "answer": "The warranty does not cover normal maintenance services, the normal wear of parts, usage for competition/rallying/racing, or damages from accidents/collisions."
+        },
+        {
+          "question": "Can customers receive a warranty on the lithium-ion battery and ISG unit of a petrol model car?",
+          "answer": "Yes, for K15C engine models, Maruti Suzuki offers a warranty of 60 months or 100,000 kilometers for the lithium-ion battery and ISG unit from the date of invoice to the first owner."
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "chunk_text": "(e)\nAny defect/ damage caused by misuse, negligence, abnor-\nmal use, insufficient care, vandalism, theft, riot, fire, flooding -\nnot limited to entry of water in the components resulting in\nengine seizure, hydrostatic lock, etc. or external damages to\nthe body/ components.\n(f)\nAny damage resulting due to usage of adulterated fuel/ lubri-\ncants/ oil/ coolant/ fluids/ polishing products and fuel/ lubri-\ncants/ oil/ coolant/ fluids used other than those specified in\nthe Owner’s Manual.\n(g)\nAny vehicle which has been modified or altered, including\nwithout limitation, the installation of performance accessories,\nenlargements of lights, other changes and external/ conse-\nquential reasons.\n(h)\nAny vehicle on which parts or accessories not approved by\nMaruti Suzuki (Non-MSGA, Non-MSGP) have been used.\n(i)\nAny vehicle which has not been operated in accordance with\nthe operating instructions in this Owner’s Manual and Service\nBooklet.\n(j)\nAny vehicle which has not received the service inspections\nprescribed in this Owner’s Manual and Service Booklet.\n(k)\nAny vehicle which has been assembled, disassembled,\nadjusted or repaired by other than a Maruti Suzuki authorised\nworkshop.\n(l)\nAny vehicle which has been used for purposes other than\nwhat it was designed for.\n(m) Any damage or deterioration caused by airborne fallout,\nindustrial fallout, acid rain, hail or hail storm, wind storm,\nlightning, bird droppings, rodents bite / rat bite and such other\nthing that result in damage to the vehicle.\n(n)\nInsignificant defects which do not affect the function of the\nvehicle including without limitation, sound, vibration and fluid\nseep.\n(o)\nAny natural wear and tear including without limitation, ageing,\nwear & tear or deterioration such as discoloration, fading,\ndeformation or blurring and fabric discoloration.\n(p)\nInstallation and usage of domestic LPG gas/LPG Cylinder.\n(q)\nV-belts, hoses and gas leaks.\n(r)\nAny vehicle retrofitted with LPG/CNG kits.\n(s)\nRepainting including patchwork, bodywork and mouldings\nand interior trims.\n(t)\nCorrosion, rusting of body parts and/ or components.\n(u)\nAny vehicle on which odometer has been changed unautho-\nrisedly or odometer reading has been modified/ tampered\nwith/ or not matching the service records.\n(v)\nThe damage(s) caused to the vehicle being unattended\ndespite knowledge that the defect exists and ignorance by\nthe owner/ user of the vehicle.\n(w) Any damage(s) caused to vehicle including battery/ tyre due\nto parking of the vehicle in idle condition for long duration of\ntime periods.\n(x)\nAny vehicle on which the retro-fitment is not authorized and/\nor type approved as per the standards prescribed by the rele-\nvant authority including but not limited to Automotive Stan-\ndards of India.\n(y)\nAny vehicle on which the retro-fitment is such which directly\nor indirectly causes any damage to the vehicle or affects the\nfunctions of the vehicle in any manner whatsoever.",
+      "question_answer_pairs": [
+        {
+          "question": "According to the guidelines, which types of modifications are explicitly prohibited from being made to a vehicle?",
+          "answer": "The guidelines prohibit making any modifications or alterations to a vehicle, including installing performance accessories, enlarging lights, or any other changes. Additionally, using parts or accessories not approved by Maruti Suzuki (Non-MSGA, Non-MSGP) is also not allowed."
+        },
+        {
+          "question": "What specific scenarios are covered under the 'misuse' category mentioned in the context?",
+          "answer": "Misuse includes situations where the vehicle is used improperly, neglected, vandalized, stolen, or subjected to extreme conditions like fires, floods, or impacts leading to engine seizures or component damage."
+        },
+        {
+          "question": "Which actions are considered improper according to the context regarding vehicle operation and maintenance?",
+          "answer": "Improper actions include operating the vehicle outside the instructions provided in the Owner's Manual and Service Booklet, not receiving prescribed service inspections, and using non-approved parts or accessories. Additionally, unauthorized modifications and repainting can lead to liability issues."
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "chunk_text": "(5) Extent of Warranty:\nThis warranty is the entire written warranty given by Maruti Suzuki\nfor Maruti Suzuki vehicles and no dealer or its or his agent or\nemployee is authorised to extend or enlarge this warranty and no\ndealer or its or his agent or employee is authorised to make any\noral warranty or representation or assurance on behalf of Maruti\nSuzuki.\nMaruti Suzuki reserves the right to add any improvements or\nchange the design of any model at any time with no obligation to\nmake the same changes on units previously sold.\n(6) Warranty Service:\nTo obtain warranty service, the complete vehicle must be pre-\nsented at the owner’s expenses to Maruti Suzuki authorised work-\nshop.\nThe customer shall be responsible for his belongings or accesso-\nries fitted in the vehicle at the time of presenting the vehicle for\nservice and no claim shall be entertained in any manner under any\ncircumstances.\n(7) Owner’s Warranty Responsibilities:\nIt is responsibility of each owner to:\n– Have performed, at his own expenses, by a Maruti Suzuki\nauthorised workshop all the service inspections specified in\nthe Owner’s Manual described in \"INSPECTION AND\nMAINTENANCE\" SECTION\".\n– Should you resell the vehicle, please guide the new users/\nowners to download this manual (from “Maruti Suzuki\nRewards” mobile application with your registered mobile\nnumber). Also the soft copy of the manual must be passed on\nto new users/ owners when resold or otherwise transferred.\nIf the Owner's Manual is lost due to any reason, the owner or user \nmay download a soft copy of the same (from “Maruti Suzuki \nRewards” mobile application with the mobile number) and save it \nfor easy access at any point of time.\n(8) Disclaimer of Consequential Damage:\nMaruti Suzuki assumes no responsibility for loss of vehicle, loss of \ntime, inconvenience or any other indirect incidental or consequen-\ntial damage resulting from the vehicle not being available to the \nowner because of any defect covered by this warranty.\n(9) Change of Owner\nEven if ownership of the vehicle changes, the remaining warranty \nperiod is effective for the new owner.\nThis warranty is applicable only in India and not transferable to \nany other country.\nNOTE:\nNotwithstanding the warranty obligations, Maruti Suzuki may \nreuse reworked (refurbished) parts for undertaking rectification of \nrecalled vehicles in terms of applicable laws.\nNOTICE\nThe owner shall not use the vehicle in a damaged condition\nand report the same immediately to the nearest Maruti\nSuzuki authorized workshop. This would result in early\ninspection and repair of the vehicle and any possible harm\nto the person or aggravation of damage to the vehicle can\nbe prevented.",
+      "question_answer_pairs": [
+        {
+          "question": "According to the warranty, who is authorised to extend or enlarge the warranty?",
+          "answer": "No one is authorised to extend or enlarge the warranty. Only Maruti Suzuki itself gives the warranty."
+        },
+        {
+          "question": "What happens if the Owner's Manual is lost after the vehicle is sold?",
+          "answer": "If the Owner's Manual is lost, the owner or user may download a soft copy of the same from the 'Maruti Suzuki Rewards' mobile application using their registered mobile number and save it for future reference."
+        },
+        {
+          "question": "What does Maruti Suzuki reserve the right to do regarding the models they sell?",
+          "answer": "Maruti Suzuki reserves the right to add any improvements or change the design of any model at any time without any obligation to make those changes on units previously sold."
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "chunk_text": "EMISSION WARRANTY POLICY\nMaruti Suzuki offers the Emission Warranty on all Maruti Suzuki\nvehicles (apart from the Regular Warranty and will run parallel to\nthe regular product warranty) only in four metropolitan cities (New\nDelhi, Kolkata, Mumbai and Chennai) with effect from July 1st,\n2001.\nTerms:\nThe Emission Warranty will be applicable for 80,000 kms or 3\nyears (Whichever comes earlier) from the date of invoice to the\nfirst owner. The remaining warranty terms will be valid in case of\nany change in ownership provided the production of all valid docu-\nments.\nConditions:\n1. Under Emission Warranty, Warranty claims will be admitted for\na prima-facie examination, in case vehicle fails to meet the\nEmission Standard as specified in sub rule (2) of rule no. 115 of\nCentral Motor Vehicles Rules (CMVR), 1989.\n2. The warranty claims will only be accepted after examination\ncarried out by Maruti Suzuki or Maruti Suzuki authorised work-\nshop which leads to firm conclusions that the\na) Original settings have not been tampered in any case.\nb) Part (as given in Annexure - A) has a manufacturing defect.\nc) Vehicle is unable to meet the Emission Standards (as given\nin 1.), inspite of the vehicle having been maintained and\nused in accordance with the instructions as specified in\nOwner’s Manual and Service Booklet and the used fuel and\ndifferent oils (Engine oil, Transmission oil, Brake oil etc.) are\nalso as per specification.\n3. The method of examination for deciding the warranty of the\nparts will be at the sole discretion of Maruti Suzuki and Maruti\nSuzuki authorised workshop and results of the examination will\nbe final and binding. If after examination, the warrantable con-\ndition is not established, Maruti Suzuki and Maruti Suzuki\nauthorised workshop has the right to charge all, or part of the\ncost of such examination.\n4. Under Emission Warranty, the parts (as given in Annexure - A)\nwill be changed free of cost, but the consumables will be\ncharged as per actual.\n5. If the part covered under Emission Warranty or the associated\nparts, are not independently replaceable, on account of these\nbeing integral parts of a complete assembly, Maruti Suzuki and\nMaruti Suzuki authorised workshop will have the sole discre-\ntion to replace either the entire assembly or by using some of\nthe parts of the system through suitable repairs or modifica-\ntions.\n6. Any consequential repairs or replacement of parts which may\nbe found necessary to establish compliance of Emission War-\nranty, will not be considered under warranty, unless the same\nis under product warranty. The consumable will be charged as\nper actual under such repair or replacement.\n7. Maruti Suzuki will not be responsible for the cost of transporta-\ntion of the vehicle to the nearest Maruti Suzuki authorised\nworkshop or any loss due to non-availability of the vehicle\nduring the period of lodging of a warranty claim and examina-\ntion and/or repair by Maruti Suzuki authorised workshop.\n8. Maruti Suzuki will not be responsible for any penalty that may\nbe charged by statutory authorities on account of failure to\ncomply with the EMISSION STANDARDS.\n9. Emission Warranty will not be affected by the change of owner,\nprovided all the documents are available.",
+      "question_answer_pairs": [
+        {
+          "question": "How many metropolitan cities offer the Emission Warranty according to the policy?",
+          "answer": "The Emission Warranty is offered in four metropolitan cities: New Delhi, Kolkata, Mumbai, and Chennai."
+        },
+        {
+          "question": "What conditions must be met for a warranty claim under the Emission Warranty?",
+          "answer": "A warranty claim can be made if the vehicle fails to meet the emission standards as specified in the Central Motor Vehicles Rules (CMVR), 1989, and it must pass a preliminary examination conducted by Maruti Suzuki or an authorised workshop. The vehicle must not have had its original settings tampered with, the specific part must have a manufacturing defect, and the vehicle must still fail to meet the emissions standards despite being properly maintained and using specified fuels and oils."
+        },
+        {
+          "question": "What happens if the warranty claim is not supported by the examination conducted by Maruti Suzuki or an authorised workshop?",
+          "answer": "If the warrantable condition is not established after the examination, Maruti Suzuki and their authorised workshops reserve the right to charge all or part of the cost of such examination."
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "chunk_text": "10. All maintenance actions (as specified in the Owner’s\nManual) need to be followed for emission warranty.\n11. The customer needs to produce the PUC (Pollution Under\nControl) certificate valid for the period preceding the test\nduring which the failure is discovered. The records/receipts\n(for the maintenance of the vehicle as per maintenance\nschedule specified in the Owner’s Manual and Service Book-\nlet from the date of original purchase of the vehicle) will also\nbe required.\nConditions under which the Emission Warranty is not\nAPPLICABLE\n1.\nIn the absence of valid PUC certificate.\n2.\nVehicle not serviced from Maruti Suzuki authorised workshop\nas per the schedule specified in the Owner’s Manual.\n3.\nVehicle subjected to abnormal use (accident, motor race, ral-\nlies or for the purpose of establishing the records etc).\n4.\nUse of non MSGP (Maruti Suzuki Genuine Part).\n5.\nVehicle that has been tampered with.\n6.\nTampering with odometer so that the actual kilometer reading\ncannot be determined.\n7.\nUse of adulterated fuel and/or unspecified oils (Engine oil,\nTransmission oil and Brake oil etc).\nNOTICE\nTo keep the engine running at idle speed for M15D engine\nmodel (for exhaust emission test), switch to maintenance\nmode by performing following steps within 60 seconds:\n1) Turn the ignition switch to ON\n2) Move the shift lever to P or select park (P) and fully\ndepress the accelerator pedal twice\n3) Move the shift lever to N or select neutral (N) and fully\ndepress the accelerator pedal twice\n4) Move the shift lever to P or select park (P) and fully\ndepress the accelerator pedal twice.\n• Start the engine by turning the ignition switch ON\n(READY) while depressing the brake pedal.\n• Check that the 2WD maintenance mode message is dis-\nplayed on the multi-information display.\nPost completion of test:\n• Turn the Ignition Switch OFF and wait for at least 30 sec-\nonds, the hybrid system will turn off.\nAfter deactivating maintenance mode, turn the Ignition\nSwitch ON and check corresponding message is no longer\ndisplayed.",
+      "question_answer_pairs": [
+        {
+          "question": "What must a customer do if they find a failure in their vehicle's emission system?",
+          "answer": "The customer must provide a valid Pollution Under Control (PUC) certificate that is valid for the period preceding the test where the failure was discovered. Additionally, they must have records or receipts showing that the vehicle has been maintained according to the maintenance schedule specified in the Owner’s Manual and Service Booklet since the date of purchase."
+        },
+        {
+          "question": "Which conditions make an Emission Warranty inapplicable according to the document?",
+          "answer": "An Emission Warranty is not applicable under the following conditions: the absence of a valid PUC certificate, vehicles not serviced from Maruti Suzuki authorized workshops as per the maintenance schedule, abnormal use of the vehicle, use of non-MSGP parts, tampering with the vehicle, tampering with the odometer, and using adulterated fuel or unspecified oils."
+        },
+        {
+          "question": "How can one switch to maintenance mode for the M15D engine model during an exhaust emission test?",
+          "answer": "To switch to maintenance mode for the M15D engine model during an exhaust emission test, follow these steps within 60 seconds: 1) Turn the ignition switch to ON, 2) Move the shift lever to P or select park (P) and fully depress the accelerator pedal twice, 3) Move the shift lever to N or select neutral (N) and fully depress the accelerator pedal twice, 4) Move the shift lever to P or select park (P) and fully depress the accelerator pedal twice. After completing these steps, start the engine by turning the ignition switch ON while depressing the brake pedal and ensure that the 2WD maintenance mode message appears on the multi-information display."
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "chunk_text": "Annexure - A\nList of parts (if applicable) covered under Emission Warranty\n1.\nFuel Injection Assembly, Pressure Regulator, Throttle Body\nAssembly.\n2.\nECM (Electronic Control Module).\n3.\nIntake Manifold.\n4.\nEGR valve.\n5.\nIgnition Coil.\n6.\nCanister Assembly.\n7.\nVapour Liquid Seperator.\n8.\nFuel Tank and Filler Cap.\n9.\nPCV (Positive Crankcase Ventilation) Valve.\n10. Oil Filler Cap.\n11. Catalytic Convertor.\n12. Exhaust Manifold.\n13. All Fuel Injection System related Sensors.\n14. High Pressure Fuel Pump.\n15. Glow Plug.\n16. Glow Plug Controller.",
+      "question_answer_pairs": [
+        {
+          "question": "Which specific components are included in the Emission Warranty for the fuel injection system?",
+          "answer": "The fuel injection system includes the Fuel Injection Assembly, Pressure Regulator, Throttle Body Assembly, ECM (Electronic Control Module), Intake Manifold, EGR valve, Ignition Coil, Canister Assembly, Vapour Liquid Separator, and all Fuel Injection System related Sensors."
+        },
+        {
+          "question": "What components are not covered under the Emission Warranty listed in Annexure - A?",
+          "answer": "Components such as the Fuel Tank and Filler Cap, Oil Filler Cap, Catalytic Convertor, Exhaust Manifold, High Pressure Fuel Pump, Glow Plug, and Glow Plug Controller are not mentioned as being included in the Emission Warranty list provided in Annexure - A."
+        },
+        {
+          "question": "How many total components are covered under the Emission Warranty according to Annexure - A?",
+          "answer": "There are 16 total components covered under the Emission Warranty according to Annexure - A."
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "chunk_text": "SERVICE STATION GUIDE\n1. Fuel (see section 7)\n2. Engine hood (see section 7)\n3. Tyre changing tools (see section 10)\n4. Engine oil dipstick (see section 9)\n5. Automatic transmission fluid dipstick\n(for 6 A/T model) (see section 9)\n6. Engine coolant (see section 9)\n7. Windshield washer fluid \n(see section 9)\n8. Lead-acid battery (see section 9)\n9. Tyre pressure (see Tyre Information\nLabel on driver’s door lock pillar)\n10. Spare tyre (see section 10)\nThe image on the right box is a typical\nexample; it depends on the vehicle type.\n76TS0030\n2\n4\n6\n5\n8\n7\n9\n3\n10\n1\n2\n1\n8\n6\n7\n2\n4\nK15C engine model",
+      "question_answer_pairs": [
+        {
+          "question": "What section does the Engine oil dipstick fall under in the SERVICE STATION GUIDE?",
+          "answer": "The Engine oil dipstick falls under section 9 in the SERVICE STATION GUIDE."
+        },
+        {
+          "question": "Which section should one check for information regarding the spare tyre?",
+          "answer": "One should check section 10 for information regarding the spare tyre in the SERVICE STATION GUIDE."
+        },
+        {
+          "question": "Can you provide a brief summary of what the Tyre Information Label on the driver’s door lock pillar contains?",
+          "answer": "The Tyre Information Label on the driver’s door lock pillar typically contains information about the current tyre pressures, which can be crucial for ensuring the safety and performance of the vehicle's tyres."
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "chunk_text": "TABLE OF CONTENTS\nQUICK GUIDE\n1\nFOR SAFE DRIVING\n2\nBEFORE DRIVING\n3\nINSTRUMENT CLUSTER\n4\nOPERATING YOUR VEHICLE\n5\nADVICE FOR YOUR DRIVING\n6\nOTHER CONTROLS AND EQUIPMENT\n7\nVEHICLE LOADING AND TOWING\n8\nINSPECTION AND MAINTENANCE\n9\nEMERGENCY SERVICE\n10\nAPPEARANCE CARE\n11\nSPECIFICATIONS\n12\nSERVICE NETWORK\n13",
+      "question_answer_pairs": [
+        {
+          "question": "What is the primary focus of the 'FOR SAFE DRIVING' chapter in the table of contents?",
+          "answer": "'FOR SAFE DRIVING' likely covers essential safety guidelines and tips for drivers to ensure they are operating their vehicle safely, such as proper seatbelt use, defensive driving techniques, and adhering to traffic laws."
+        },
+        {
+          "question": "How many chapters are dedicated to the inspection and maintenance section of the manual?",
+          "answer": "There is one chapter dedicated to 'INSPECTION AND MAINTENANCE', which presumably contains information about regularly checking the vehicle's systems and performing necessary maintenance tasks to keep it in good condition."
+        },
+        {
+          "question": "Which chapters would provide detailed information on how to load the vehicle and what to consider when towing another vehicle?",
+          "answer": "The chapters 'VEHICLE LOADING AND TOWING' directly address these topics, providing instructions and considerations for loading the vehicle and towing another vehicle safely and efficiently."
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "chunk_text": "QUICK GUIDE\n1\n59RN00020\nQUICK GUIDE\nIllustrated Table of Contents .............................................. 1-1\nWarning Lights and Indicators .......................................... 1-10\nWarning Buzzer ................................................................... 1-19\nFAQ ....................................................................................... 1-25",
+      "question_answer_pairs": [
+        {
+          "question": "What is the primary purpose of the Warning Lights and Indicators section in the QUICK GUIDE?",
+          "answer": "The Warning Lights and Indicators section likely provides information about the various lights and indicators used to alert users to specific conditions or issues with the device being guided."
+        },
+        {
+          "question": "Which page number corresponds to the FAQ section in the QUICK GUIDE?",
+          "answer": "The FAQ section in the QUICK GUIDE can be found on page 1-25."
+        },
+        {
+          "question": "Can you describe what an Illustrated Table of Contents typically includes in a QUICK GUIDE document?",
+          "answer": "An Illustrated Table of Contents typically includes visual representations such as icons, images, or diagrams alongside textual descriptions that help guide users through the content of the document. This makes it easier to quickly locate sections of interest."
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "chunk_text": "1-1\nQUICK GUIDE\nIllustrated Table of Contents\nExterior\n(1) Door (P.3-1)\n(2) Door Locks (P.3-1)\n(3) Side Turn Signal Light on Outside \nRearview Mirrors (P.9-36)\n(4) Roof Rails (if equipped)\n(5) Sun Roof (if equipped)\n(6) Windshield Wiper (P.3-25, 9-44)\n(7) Fuel Filler Cap (P.7-1)\n(8) Tailgate (P.3-4)\n(9) Radio Antenna (P.7-43)\n(10) High Mount Stop Light (P.9-37)\n(11) Rear Window Wiper (if equipped)\n(P.3-25, 9-44)\n(12) Rear Camera (if equipped) \n(P.5-73, 5-104)\n(13) Side Camera (if equipped) (P.5-73)\n(14) Outside Rearview Mirror (P.2-9)\n(15) Position Light, Daytime Running Light\n(D.R.L.) and Front Turn Signal Light\n(P.3-21)\n(16) Headlight (P.3-19, 9-35)\n(17) Engine Hood (P.7-4)\n(18) Front Camera (if equipped) (P.5-73)\n(19) Towing Eye Cover (P.10-5)\n(20) Brake Light and Tail Light (P.9-36)\n(21) Rear Turn Signal Light (P.3-24, 9-36)\n(22) Reversing Light (P.9-36)\n(23) Parking Sensor (P.5-99)\n(24) License Plate Light (P.9-37)\n(25) Tail Light (P.9-36)\n76TS10170\n(1)(2) (3)(4)\n(4)\n(5)\n(6)\n(12)\n(13)\n(11)\n(7)\n(8) (9)(10)\n(18)\n(23)\n(23)\n(15)\n(21)\n(22)\n(17)\n(20)\n(16)\n(24)\n(19)\n(14)\n(17)\n(17)\n(25)",
+      "question_answer_pairs": [
+        {
+          "question": "What is the page number for the description of the fuel filler cap?",
+          "answer": "The fuel filler cap is described on page P.7-1."
+        },
+        {
+          "question": "Which component is located on the outside rearview mirror?",
+          "answer": "The outside rearview mirror is located on the side of the vehicle."
+        },
+        {
+          "question": "How many pages does the illustrated table of contents span from page P.3-1 to page P.9-36?",
+          "answer": "The illustrated table of contents spans 7 pages from P.3-1 to P.9-36."
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "chunk_text": "1-2\nQUICK GUIDE\nInterior, Side\n(1) Inside Rearview Mirror (P.2-8)\n(2) Front Interior Light (P.7-7, 9-38)\n(3) Sun Visor (P.7-6)\n(4) Warning Label for Front Passenger's \nFront Airbag (P.2-47) *1, *2\n(5) Hands-free Microphone (if equipped)\n(P.7-45)\n(6) Seat Belt (P.2-20)\n(7) Side Curtain Airbag (if equipped) \n(P.2-48)\n(8) Front Seat (P.2-5)\n(9) Side Airbag (if equipped) (P.2-48)\n(10) Front Seat Back Pocket (if equipped)\n(P.7-30)\n(11) Center Interior Light (P.7-7)\n*1: Be sure to read the detailed information\nin the target page before using a child\nrestraint system.\n*2: NEVER use a rearward facing child\nrestraint on a seat protected by an\nACTIVE AIRBAG in front of it, DEATH\nor SERIOUS INJURY to the CHILD can\noccur.\n76TM01001\n76TS10140\n(1)\n(2)(3)\n(4)\n(5)\n(7)\n(8)\n(9)\n(9)\n(10)\n(4)\n(6)\n(11)",
+      "question_answer_pairs": [
+        {
+          "question": "What specific page does the warning label for the front passenger's airbag appear on?",
+          "answer": "The warning label for the front passenger's airbag appears on page P.2-47."
+        },
+        {
+          "question": "Which feature is included if the vehicle is equipped with hands-free functionality?",
+          "answer": "If the vehicle is equipped with hands-free functionality, a hands-free microphone will be included."
+        },
+        {
+          "question": "What is the purpose of the asterisk (*) in the context?",
+          "answer": "The asterisk (*) in the context indicates that the information provided after it should be carefully read for safety instructions, such as the caution about using a rear-facing child restraint near an active airbag."
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "chunk_text": "1-3\nQUICK GUIDE\nInterior, Rear\n(1) Assist Grip (P.7-21)\n(2) Seat Belt (P.2-20)\n(3) Rear Seat (P.2-13)\n(4) USB Charging Socket (if equipped)\n(P.7-24)\n(5) Front Armrest (if equipped) (P.7-18)\n(6) Rear Armrest (if equipped) (P.7-14)\n76TS10210\n(1)\n(2)\n(2)\n(3)\n(6)\n(2)\n(4)\n(5)",
+      "question_answer_pairs": [
+        {
+          "question": "What is the page number for the information about the Rear Seat?",
+          "answer": "The Rear Seat information can be found on page P.2-13."
+        },
+        {
+          "question": "Which item is mentioned only once in the quick guide?",
+          "answer": "The item mentioned only once is 'Assist Grip' which is listed as item (1)."
+        },
+        {
+          "question": "How many times does the Rear Armrest appear in the quick guide?",
+          "answer": "The Rear Armrest appears twice in the quick guide, listed as items (5) and (6)."
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "chunk_text": "1-4\nQUICK GUIDE\nInterior, Front\n(1) Glove Box (P.7-17)\n(2) Front Passenger’s Front Airbag\n(P.2-48)\n(3) Accessory Socket (P.7-12)\n(4) Heating and Air Conditioning System\n(P.7-35)\n(5) USB Socket (if equipped) (P.7-23)\n(6) Driver’s Front Airbag (P.2-48)\n(7) Engine Hood Release Handle\n(P.7-4)\n(8) Fuel Lid Opener Lever (P.7-1)\n(9) Parking Brake Lever (P.5-20)\n(10) Gearshift Lever (P.5-26, 5-30)\n(11) Door Lock Switch (P.3-2)\n(12) Electric Window Control (P.3-15)\n(13) Electric Mirror Control (P.2-10)\n(14) Window Lock Switch (P.3-16)\n76TS10010\n(1)\n(2)\n(3)\n(4)\n(6)\n(7)\n(8)\n(5)\n(9)\n(10)\n(13)\n(11)\n(12)\n(14)",
+      "question_answer_pairs": [
+        {
+          "question": "What specific page number in the guide corresponds to the information about the heating and air conditioning system?",
+          "answer": "The information about the heating and air conditioning system is provided on page P.7-35 of the guide."
+        },
+        {
+          "question": "Which item in the list is not mentioned as having an associated page number?",
+          "answer": "Item number 1 is not mentioned with an associated page number."
+        },
+        {
+          "question": "Can you provide details on the function of the accessory socket (item 3)?",
+          "answer": "The accessory socket (item 3) is an electrical outlet used for plugging in accessories such as power tools, fans, or other devices that require electrical power. The exact location and functionality may vary depending on the vehicle model."
+        }
+      ]
+    },
+    {
+      "page": 22,
+      "chunk_text": "1-5\nQUICK GUIDE\nInstrument Panel 1\n(1) Hazard Warning Switch (P.3-25)\n(2) Hands-free Switch (if equipped) \n(P.7-45)\nVoice \nRecognition \nSwitch \n(if\nequipped) (P.7-45)\n(3) Remote Audio Controls \n(P.7-44)\n(4) Windshield Wiper and Washer Lever\n(P.3-25)/\nRear Window Wiper/Washer Switch\n(P.3-28)\n(5) Instrument Cluster (P.4-1, 4-38)\n(6) Head-up Display (if equipped)\n(P.5-65)\n(7) Cruise Control Switches (if equipped)\n(P.5-62)\n(8) Lighting Control Lever (P.3-19)/\nTurn Signal Control Lever (P.3-24)\n(9) Heated Rear Window Switch (P.3-29)\n(10) Fuses (P.9-27)\n(11) Drink Holder (P.7-14)\n(12) Tilt / Telescoping \nSteering Lock Lever (P.2-7)\n(13) Engine Switch / Power Switch \n(P.5-3)\n76TS10020\n(1) (2)(3)\n(6)\n(4)\n(5)\n(9)\n(8)\n(7)\n(12)\n(10)\n(13)\n(11)",
+      "question_answer_pairs": [
+        {
+          "question": "Which page provides information about the cruise control switches?",
+          "answer": "The cruise control switches are located on page P.5-62."
+        },
+        {
+          "question": "What is the purpose of the windshield wiper and washer lever?",
+          "answer": "The windshield wiper and washer lever (P.3-25) controls the operation of the windshield wipers and washer system."
+        },
+        {
+          "question": "Can you identify which components are listed under 'Heated Rear Window Switch'?",
+          "answer": "The heated rear window switch (P.3-29) is listed under component number 9 in the provided list."
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "chunk_text": "1-6\nQUICK GUIDE\nInstrument Panel 2\n(1) Down Switch* (if equipped) (P.5-65)\n(2) Up Switch* (if equipped) (P.5-65)\n(3) Brightness Control Switch*\n(if equipped) (P.5-65)\n(4) Head-up Display Switch*\n(if equipped) (P.5-65)\n(5) Headlight Leveling Switch (P.3-23)\n(6) Camera Switch (if equipped) (P.5-73)\n(7) Hill Descent Control Switch\n(if equipped) (P.5-112)\n(8) ESP® OFF Switch\n(P.5-110)\n(9) ENG A-STOP OFF Switch\n(if equipped) (P.5-51)\n(10) Changeover / Selector Switch Posi-\ntion (for CNG model)\n*: For Head-up display\n76TS10161\nHUD\n(2)\n(3)\n(1)\n(6)\n(4)\n(5)\n(7)\n(9)\n(10)\n(8)\nCNG\nFUEL",
+      "question_answer_pairs": [
+        {
+          "question": "What is the purpose of the 'Headlight Leveling Switch' mentioned in the guide?",
+          "answer": "The Headlight Leveling Switch (P.3-23) is used to adjust the height of the headlights to ensure consistent beam level when the vehicle is tilted or turned."
+        },
+        {
+          "question": "Which page does the information about the 'Head-up Display Switch' (if equipped) appear on?",
+          "answer": "The information about the 'Head-up Display Switch' appears on page P.5-65 of the guide."
+        },
+        {
+          "question": "How many switches are listed for the instrument panel in the guide?",
+          "answer": "There are 10 switches listed for the instrument panel in the guide."
+        }
+      ]
+    },
+    {
+      "page": 24,
+      "chunk_text": "1-7\nQUICK GUIDE\nLuggage Compartment\n(1) Luggage Compartment Cover\n(P.7-30)\n(2) Spare Tyre (P.10-7)\n(3) Luggage Compartment Hook (P.7-30)\n(4) Accessory Socket (P.7-12)\n(5) Luggage Compartment Light\n(if equipped) (P.7-10, 9-39)\n(6) Jack (P.10-12)\n(7) Towing Eye (P.10-3)\n(8) Jack Handle (P.10-7)\n(9) Wheel Wrench (P.10-7)\n(10) Tool bag (P.10-7)\n(11) Luggage Compartment Board\n(P.7-31)\nK15C Petrol model\n76TS10190\n(11)\n(1)\n(2)\n(4)\n(3)\n(6)\n(8)\n(7)\n(9)\n(10)\n(5)",
+      "question_answer_pairs": [
+        {
+          "question": "What is the purpose of the accessory socket mentioned in the guide?",
+          "answer": "The accessory socket is used for connecting various accessories that require power, such as lighting or electrical devices."
+        },
+        {
+          "question": "Which page in the guide provides detailed information about the spare tyre?",
+          "answer": "The spare tyre information can be found on page P.10-7 of the guide."
+        },
+        {
+          "question": "How many items listed in the quick guide are tools specifically used for vehicle maintenance?",
+          "answer": "There are 9 tools listed in the quick guide that are tools specifically used for vehicle maintenance: jack, wheel wrench, tool bag, luggage compartment hook, luggage compartment light (if equipped), towing eye, luggage compartment board, spare tyre, and accessory socket."
+        }
+      ]
+    },
+    {
+      "page": 25,
+      "chunk_text": "1-8\nQUICK GUIDE\nLuggage Compartment \n(1) Luggage Compartment Cover \n(P.7-30)\n(2) Luggage Compartment Board FR\n(P.7-31)\n(3) Luggage Compartment Board RR\n(P.7-31)\n(4) Luggage Compartment Board R \n(P7-31)\n(5) Luggage Compartment Board L \n(P.7-31)\n(6) Luggage Floor Carpet\n(7) Luggage Compartment Hook (P.7-30)\n(8) Accessory Socket (P.7-12) \n(9) Luggage Compartment Light \n(if equipped) (P.7-10, 9-39)\n(10) Jack (P.10-7)\n(11) Jack Handle (P.10-12)\n(12) Wheel Wrench (P.10-7)\n(13) Extension (P.10-7)\n(14) Towing Eye (P.10-7)\n(15) Tool Box\nM15D model\n76TS10030\n(7)\n(8)\n(9)\n(13)\n(14)\n(15)\n(11)\n(10)\n(12)\n(1)\n(2)\n(3)\n(6)\n(5)\n(4)",
+      "question_answer_pairs": [
+        {
+          "question": "What is the purpose of the Luggage Compartment Cover mentioned in the guide?",
+          "answer": "The Luggage Compartment Cover is used to secure the luggage compartment when it's not in use."
+        },
+        {
+          "question": "Which page number in the guide provides information about the Luggage Floor Carpet?",
+          "answer": "The Luggage Floor Carpet is described on page P.7-31 of the guide."
+        },
+        {
+          "question": "Which items are provided in the Tool Box according to the guide?",
+          "answer": "The Tool Box contains the Jack, Jack Handle, Extension, Towing Eye, and Luggage Compartment Hook."
+        }
+      ]
+    },
+    {
+      "page": 26,
+      "chunk_text": "1-9\nQUICK GUIDE\nKey\n(1) Keyless Push Start System Remote\nController (P.3-7)\nKeyless Push Start System (P.5-8)\nStarting Engine (P.5-13)\n(2) Key (P.3-1)\nDoor Locks (P.3-1)\n76T010010\n(1)\n(2)",
+      "question_answer_pairs": [
+        {
+          "question": "What is the purpose of the Keyless Push Start System Remote Controller mentioned in the guide?",
+          "answer": "The Keyless Push Start System Remote Controller allows for starting the engine without needing to physically insert a key into the ignition, providing an easy way to start the vehicle."
+        },
+        {
+          "question": "On which page can one find detailed information about the Keyless Push Start System?",
+          "answer": "To find detailed information about the Keyless Push Start System, one should refer to page P.5-8 in the guide."
+        },
+        {
+          "question": "What does the number '76T010010' likely represent in the context of the Quick Guide?",
+          "answer": "The number '76T010010' appears to be a part or serial number, possibly referring to a specific component or device within the vehicle that is being described in the Quick Guide."
+        }
+      ]
+    },
+    {
+      "page": 27,
+      "chunk_text": "1-10\nQUICK GUIDE\nWarning Lights and Indicators\nWarning Lights \nInstrument cluster (Type A)\n76TS10230\n(1)\n(7)\n(2)\n(12)\n(10)\n(4)\n(5)\n(18)\n(6)\n(9)\n(8)\n(11)\n(13)\n(14)\n(3)",
+      "question_answer_pairs": [
+        {
+          "question": "What is the part number for the instrument cluster mentioned in the QUICK GUIDE?",
+          "answer": "The part number for the instrument cluster (Type A) mentioned in the QUICK GUIDE is 76TS10230."
+        },
+        {
+          "question": "Which warning lights are highlighted as active in the instrument cluster according to the list provided?",
+          "answer": "According to the list provided, the warning lights that are highlighted as active in the instrument cluster are (1), (7), (2), (12), (10), (4), (5), (18), (6), (9), (8), (11), (13), (14), and (3)."
+        },
+        {
+          "question": "How many total items are listed under 'Warning Lights' in the QUICK GUIDE?",
+          "answer": "There are 14 total items listed under 'Warning Lights' in the QUICK GUIDE."
+        }
+      ]
+    },
+    {
+      "page": 28,
+      "chunk_text": "1-11\nQUICK GUIDE\nInstrument cluster (Type B)\n76TS01004\n(5)\n(2)\n(13)\n(18)\n(4)\n(1) (17)\n(16)\n(12)\n(11)\n(15)\n(7) (14)\n(6)\n(9)\n(8)\n(3)",
+      "question_answer_pairs": [
+        {
+          "question": "What is the model number for the instrument cluster mentioned in the QUICK GUIDE?",
+          "answer": "The model number for the instrument cluster mentioned in the QUICK GUIDE is 76TS01004."
+        },
+        {
+          "question": "How many sections or categories are listed in the QUICK GUIDE for the instrument cluster?",
+          "answer": "There are 11 sections or categories listed in the QUICK GUIDE for the instrument cluster."
+        },
+        {
+          "question": "Which numbers correspond to physical features such as buttons or gauges in the instrument cluster, based on the given list?",
+          "answer": "The numbers that likely correspond to physical features such as buttons or gauges in the instrument cluster are 1, 11, 17, 18, 16, 12, 14, 15, 9, 8, 3."
+        }
+      ]
+    },
+    {
+      "page": 29,
+      "chunk_text": "1-12\nQUICK GUIDE\n• If a warning light continues to be lit or is blinking, there may be a problem with the vehicle or the system. Carefully read the following\nreference information and consult with a Maruti Suzuki authorized workshop.\n• It is considered normal that warning lights and indicators marked with an asterisk (*) are lit when pressing the engine switch or the\npower switch to change the ignition mode to ON (i.e., high engine coolant temperature warning light initially lights up in red). If such\nlights do not light up, consult with a Maruti Suzuki authorized workshop.\nWarning light\nColor\nName\n(1)\n*\nRed\nBrake System Warning Light\n(2)\nRed\nDriver’s Seat Belt Reminder Light / Front Passenger’s Seat Belt Reminder Light\n(3)\nRed\nRear Seat Passenger's Seat Belt Reminder Light (Left / Center / Right)\n(4)\nOrange\nLow Fuel Warning Light\n(5)\n*\nOrange\nAnti-lock Brake System (ABS) Warning Light\n(6)\n*\nOrange\nMalfunction Indicator Light\n(7)\n*\nOrange\nElectric Power Steering Light",
+      "question_answer_pairs": [
+        {
+          "question": "What color indicates that the Anti-lock Brake System (ABS) Warning Light is functioning correctly?",
+          "answer": "The Anti-lock Brake System (ABS) Warning Light is indicated in orange."
+        },
+        {
+          "question": "When should you consult a Maruti Suzuki authorized workshop if warning lights remain lit despite switching the engine?",
+          "answer": "If a warning light continues to be lit or blinking after changing the ignition mode to ON, you should consult a Maruti Suzuki authorized workshop."
+        },
+        {
+          "question": "Why would the Malfunction Indicator Light be illuminated in orange, according to the quick guide?",
+          "answer": "The Malfunction Indicator Light is illuminated in orange because it signifies a general malfunction indicator, indicating that there could be an issue with the vehicle or its systems."
+        }
+      ]
+    },
+    {
+      "page": 30,
+      "chunk_text": "1-13\nQUICK GUIDE\n(8)\n*\nRed\nEngine Oil Pressure Warning Light\n(9)\n*\nRed\nCharge Warning Light\n(10)\n*\nOrange\nTransmission Warning Light (Automatic Transmission models)\n(11)\n*\nOrange\nImmobilizer/Keyless Push Start System Warning Light\n(12)\nRed\nOpen Door Warning Light\n(13)\n*\nOrange\nMaster Warning Indicator Light\n(14)\n*\nOrange\nLow Tyre pressure Warning Light (if equipped)\n(15)\nOrange\nHybrid System Warning Light (M15D engine model)\nWarning light\nColor\nName",
+      "question_answer_pairs": [
+        {
+          "question": "What is the color and name for the Master Warning Indicator Light mentioned in the guide?",
+          "answer": "The Master Warning Indicator Light is orange."
+        },
+        {
+          "question": "Which specific engine model includes the Hybrid System Warning Light according to the information provided?",
+          "answer": "The M15D engine model includes the Hybrid System Warning Light."
+        },
+        {
+          "question": "For which type of vehicle would you expect to see an Open Door Warning Light illuminated?",
+          "answer": "The Open Door Warning Light is typically seen in automatic transmission vehicles."
+        }
+      ]
+    },
+    {
+      "page": 31,
+      "chunk_text": "1-14\nQUICK GUIDE\n(16)\n*\nOrange\nAcoustic Vehicle Alerting System Warning Light (if equipped)\n(17)\n*\nOrange\nBrake System Warning Light (M15D engine model)\n(18)\n*\nRed\nAirbag Warning Light\nWarning light\nColor\nName",
+      "question_answer_pairs": [
+        {
+          "question": "What is the color of the Airbag Warning Light mentioned in the guide?",
+          "answer": "The Airbag Warning Light is colored red."
+        },
+        {
+          "question": "For which engine model is the Brake System Warning Light displayed as orange?",
+          "answer": "The Brake System Warning Light for the M15D engine model is displayed as orange."
+        },
+        {
+          "question": "Which specific vehicle feature corresponds to the Acoustic Vehicle Alerting System Warning Light?",
+          "answer": "The Acoustic Vehicle Alerting System Warning Light (if equipped) indicates the presence of the vehicle's acoustic alert system."
+        }
+      ]
+    },
+    {
+      "page": 32,
+      "chunk_text": "1-15\nQUICK GUIDE\nIndicators\nInstrument cluster (Type A)\n76TS10090\n(22)\n(21)\n(19)\n(20)\n(23)\n(25)\n(27)\n(24)\n(27)\n(26)",
+      "question_answer_pairs": [
+        {
+          "question": "What is the purpose of the instrument cluster codes listed in the QUICK GUIDE?",
+          "answer": "The instrument cluster codes listed in the QUICK GUIDE are used to identify specific types or models of instrument clusters, which are essential for diagnosing issues with the vehicle's display system."
+        },
+        {
+          "question": "How many codes are included in the instrument cluster section of the QUICK GUIDE?",
+          "answer": "There are 15 codes included in the instrument cluster section of the QUICK GUIDE."
+        },
+        {
+          "question": "Can you provide more details about the code 27 in the instrument cluster section?",
+          "answer": "Code 27 in the instrument cluster section typically indicates that there might be an issue with the fuel gauge or a malfunction in the fuel system. It's advisable to consult the full guide for further troubleshooting steps based on the specific code."
+        }
+      ]
+    },
+    {
+      "page": 33,
+      "chunk_text": "1-16\nQUICK GUIDE\nInstrument cluster (Type B)\n76TS01003\n(27)\n(23)\n(20)\n(27)\n(19)\n(21) (22)",
+      "question_answer_pairs": [
+        {
+          "question": "What does the code '76TS01003' likely represent in the context of the instrument cluster?",
+          "answer": "The code '76TS01003' appears to be a specific identifier or version number for the Type B instrument cluster, possibly indicating the manufacturer or the exact model of the cluster."
+        },
+        {
+          "question": "What do the numbers in parentheses next to the code signify?",
+          "answer": "The numbers in parentheses (27, 23, 20, 27, 19, 21, 22) could represent various parameters such as dimensions, weights, or other specifications associated with the instrument cluster model '76TS01003'."
+        },
+        {
+          "question": "How many total items are listed under the Type B instrument cluster code?",
+          "answer": "There are a total of seven items listed under the Type B instrument cluster code '76TS01003', which includes both the code itself and the parenthesized numbers."
+        }
+      ]
+    },
+    {
+      "page": 34,
+      "chunk_text": "1-17\nQUICK GUIDE\nIndicator\nColor\nName\n(19)\nBlue\nMain Beam (High Beam) Indicator Light\n(20)\nGreen\nIllumination Indicator Light\n(21)\n*\nOrange\nESP® OFF Indicator Light\n(22)\n*\nOrange\nESP® Warning Light\n(23)\nRed\nSecurity System Indicator\n(24)\nGreen\nENG A-STOP Indicator Light (if equipped)\n(25)\nOrange\nENG A-STOP OFF Indicator Light (if equipped)\n(26)\nWhite\nDeceleration Energy Regenerating Indicator Light (if equipped)",
+      "question_answer_pairs": [
+        {
+          "question": "Main Beam (High Beam) Indicator Light: Blue",
+          "answer": ""
+        },
+        {
+          "question": "Illumination Indicator Light: Green",
+          "answer": ""
+        },
+        {
+          "question": "ESP® OFF Indicator Light: Orange",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "page": 35,
+      "chunk_text": "1-18\nQUICK GUIDE\n(27)\nGreen\nTurn Signal Indicators\nIndicator\nColor\nName",
+      "question_answer_pairs": [
+        {
+          "question": "What color does the 'Green' indicator represent in the Turn Signal Indicators section of the guide?",
+          "answer": "The 'Green' indicator represents the turn signal indicators."
+        },
+        {
+          "question": "How many items are listed in the 'Quick Guide' section?",
+          "answer": "There are 27 items listed in the 'Quick Guide' section."
+        },
+        {
+          "question": "Is there a specific name for the color 'Green' in the context provided?",
+          "answer": "No, there is no specific name mentioned for the color 'Green' in the context provided."
+        }
+      ]
+    },
+    {
+      "page": 36,
+      "chunk_text": "1-19\nQUICK GUIDE\nWarning Buzzer\n• *1: The master warning \n in the instrument cluster blinks. At the same time, the message will be shown on the information display to\ninform the driver of the vehicle condition and the remedy.\n• *2: The message will be shown on the information display to inform the driver of the vehicle condition and the remedy. \nWhen\nWarning buzzer\nInstrument cluster\nCause and remedy\nWhen one of the\ndoors is opened\nInterior buzzer\nBlinks every 2 sec-\nonds\nThe security system warning is being activated. You can stop\nthe warning by either of the following operations:\n• Unlock the doors using the keyless push start system\nremote controller or the request switch.\n• Press the engine switch or the power switch to change the\nignition mode to ON.\n• Beeping at short inter-\nvals for approx. 10 sec-\nonds\nWhen the engine\nswitch or the power\nswitch is pressed to\nchange the ignition\nmode to ON\nInterior buzzer\nBlinks rapidly for \napprox. 8 seconds\nIndicates that a security system has been activated while the\nvehicle has been parked; check the vehicle to make sure that\nit is not broken into or nothing is stolen.\n• Beeping 4 times\nInterior buzzer\n*1\nThe steering wheel lock has not been released. With load not\napplied, turn the steering wheel to the left or right so as to\npress the engine switch or the power switch again.\n• Chime (once)",
+      "question_answer_pairs": [
+        {
+          "question": "How does the interior buzzer react when the security system is activated while the vehicle is parked?",
+          "answer": "The interior buzzer blinks rapidly for approximately 8 seconds, indicating that a security system has been activated while the vehicle was parked."
+        },
+        {
+          "question": "What actions should be taken if the master warning in the instrument cluster blinks?",
+          "answer": "The master warning in the instrument cluster blinking indicates that the security system warning is being activated. To stop the warning, you can unlock the doors using the keyless push start system remote controller or the request switch, or press the engine switch or the power switch to change the ignition mode to ON."
+        },
+        {
+          "question": "For how long should you beep the interior buzzer if it starts beeping at short intervals after pressing the engine switch or power switch?",
+          "answer": "If the interior buzzer starts beeping at short intervals, you should continue doing so for about 10 seconds to stop the warning."
+        }
+      ]
+    },
+    {
+      "page": 37,
+      "chunk_text": "1-20\nQUICK GUIDE\nWhen the engine\nswitch or the power\nswitch \nis \nin \nON\nmode\nInterior buzzer\nLights up\nThe brake fluid is insufficient or the brake system may be\nfaulty. Consult with a Maruti Suzuki authorized workshop.\n• Chime (once)\nInterior buzzer\nLights up\nThe fuel level is low. Refuel soon.\n• Chime (once)\nWhen driving\nInterior buzzer\n• Beeping at short inter-\nvals for approx. 95 sec-\nonds\nBlinks\n*1\nThe driver does not wear his/her seat belt. Stop the vehicle in\na safe place and wear your seat belt.\nThe front or rear passenger(s) does not wear his/her seat belt.\nWear the seat belt.\n• Beeping at short inter-\nvals for approx. 35 sec-\nonds\nBlinks\n*1\nInterior buzzer\nLights up\n*1\nThe parking brake has not been released. Stop the vehicle in\na safe place and release the parking brake.\n• 3 beeps repeating at\nshort intervals\nInterior buzzer\nLights up\n*1\nOne of the doors is not completely closed. Stop the vehicle in\na safe place and close all doors completely.\n• Chime (once)\nWhen\nWarning buzzer\nInstrument cluster\nCause and remedy",
+      "question_answer_pairs": [
+        {
+          "question": "How long should you stop the vehicle if the interior buzzer sounds because the driver is not wearing their seat belt?",
+          "answer": "If the interior buzzer sounds due to the driver not wearing their seat belt, you should stop the vehicle in a safe place and wear your seat belt."
+        },
+        {
+          "question": "What does the interior buzzer do when one of the doors isn't completely closed while driving?",
+          "answer": "When one of the doors isn't completely closed while driving, the interior buzzer will beep at short intervals for approximately 95 seconds."
+        },
+        {
+          "question": "What happens if the parking brake hasn't been released and you continue driving?",
+          "answer": "If the parking brake hasn't been released and you continue driving, the interior buzzer will light up after three consecutive beeps every few seconds, indicating that the parking brake needs to be released."
+        }
+      ]
+    },
+    {
+      "page": 38,
+      "chunk_text": "1-21\nQUICK GUIDE\nWhen opening the\ndriver’s door\nInterior buzzer\nLights up\n*1\nThe headlights or position lights are on. Turn these lights off.\n• Continuous beep\nWhen the engine\nswitch or the power\nswitch \nis \nin \nON\nmode\nInterior buzzer\nBlinks every \n1 second\n*1\nThere may be a problem with the keyless push start system.\nConsult with a Maruti Suzuki authorized workshop.\n• Chime (once)\nWhen the engine\nswitch or the power\nswitch operated\nInterior buzzer\nLights up\n*1\nThe remote controller may be outside the vehicle or its battery\nmay have become discharged.\nBring the remote controller in the vehicle or touch the engine\nswitch or the power switch with the remote controller.\n• Beeping twice\nWhen the engine\nswitch or the power\nswitch is pressed to\nchange the ignition\nmode to ON or ACC\nExterior and/or interior\nbuzzers\nBlinks\n*1\nWhen the engine switch or the power switch was pressed to\nchange the ignition mode to ON or ACC, the remote controller\nwas detected. However, when starting the engine, the remote\ncontroller was not detected. Place the remote controller in the\ninterior workable area and then press the engine switch or the\npower switch again. \n• 5 beeps repeating at\nshort intervals\nInterior buzzer\n• Chime (once)\nWhen\nWarning buzzer\nInstrument cluster\nCause and remedy",
+      "question_answer_pairs": [
+        {
+          "question": "What happens if the remote controller is not detected when changing the ignition mode?",
+          "answer": "If the remote controller is not detected when changing the ignition mode to ON or ACC, the instrument cluster will emit 5 beeps repeating at short intervals followed by a chime once."
+        },
+        {
+          "question": "How can you identify that the exterior and/or interior buzzers are blinking in quick succession?",
+          "answer": "The exterior and/or interior buzzers blink in quick succession when the engine switch or power switch is pressed to change the ignition mode to ON or ACC, and the remote controller is detected but not detected during the actual engine start."
+        },
+        {
+          "question": "What should you do if the headlights or position lights are still on after turning them off?",
+          "answer": "If the headlights or position lights are still on after turning them off, it's advised to consult with a Maruti Suzuki authorized workshop as there might be a problem with the keyless push start system."
+        }
+      ]
+    },
+    {
+      "page": 39,
+      "chunk_text": "1-22\nQUICK GUIDE\nWhen one of the\ndoor is opened or\nclosed\nExterior and/or interior\nbuzzers\nBlinks\n*1\nThe remote controller may be outside the vehicle.\nBring the remote controller in the vehicle.\n• 5 beeps repeating at\nshort intervals\nWhen opening the\ndriver’s door\nInterior buzzer\n–\nPress the engine switch or the power switch to change the\nignition mode from ON or ACC to LOCK (OFF).\n• Beeping at short inter-\nvals\nInterior buzzer\n–\nThe steering lock fails to engage due to a fault in the system\nwhen the ignition mode is turned to LOCK (OFF) by pressing\nthe engine switch or the power switch.\nHave the vehicle inspected by a Maruti Suzuki authorized\nworkshop.\n• Continuous short beeps \nWhen pushing the\nrequest switch\nExterior buzzer\n–\nThe engine switch or the power switch is in ACC or ON mode.\nPress the engine switch or the power switch to change the\nignition mode to LOCK (OFF).\n• Beeping at short inter-\nvals for approx. 2 sec-\nonds\n–\nThe remote controller is left inside the vehicle.\nTake the remote controller outside the vehicle.\nLights up\n*2\nAny door (including the tailgate) is open.\nClose all doors completely\nWhen\nWarning buzzer\nInstrument cluster\nCause and remedy",
+      "question_answer_pairs": [
+        {
+          "question": "How should you handle the exterior buzzer blinking if the remote controller is left inside the vehicle?",
+          "answer": "If the exterior buzzer blinks indicating the remote controller is outside the vehicle, bring the remote controller inside."
+        },
+        {
+          "question": "What action should be taken if the steering lock fails to engage when attempting to lock the vehicle?",
+          "answer": "If the steering lock fails to engage when locking the vehicle, have the vehicle inspected by an authorized workshop."
+        },
+        {
+          "question": "What is the purpose of the continuous short beeps from the exterior buzzer when the engine switch or power switch is in ACC or ON mode?",
+          "answer": "The continuous short beeps indicate that the engine switch or power switch must be changed to the LOCK (OFF) mode before closing any doors."
+        }
+      ]
+    },
+    {
+      "page": 40,
+      "chunk_text": "1-23\nQUICK GUIDE\nWhen \npushing\nLOCK button on the\nremote controller\nExterior buzzer\nLights up\n*2\nAny door (including the tailgate) is open.\nClose all doors completely\n• Beeping at short inter-\nvals for approx. 2 sec-\nonds\nWhen stopping or\nbacking up the vehi-\ncle\nInterior buzzer\n–\nRear parking sensors detect an obstacle on the rear side of\nthe vehicle. Check the surrounding area directly with your\neyes and the mirrors, and back up the vehicle slowly.\n• Short beeps at long\nintervals, short beeps\nat short intervals, short\nbeeps at very short\nintervals, or continuous\nbeep\nWhen using the shift\npaddle\nInterior buzzer\n–\nThe gear position is not set in the desired position by operat-\ning the paddle shift switch. Select the proper gear position for\nthe vehicle speed.\n• 2 beeps at short inter-\nvals\nWhen\nWarning buzzer\nInstrument cluster\nCause and remedy",
+      "question_answer_pairs": [
+        {
+          "question": "What does the interior buzzer do when the vehicle's gear position isn't set correctly as indicated by the paddle shift switch?",
+          "answer": "When the gear position is not set correctly via the paddle shift switch, the interior buzzer emits 2 beeps at short intervals."
+        },
+        {
+          "question": "How often does the buzzer beep when the rear parking sensors detect an obstacle behind the vehicle?",
+          "answer": "The buzzer beeps at short intervals, approximately every 2 seconds, when the rear parking sensors detect an obstacle behind the vehicle."
+        },
+        {
+          "question": "What action should you take if the exterior buzzer lights up when pushing the lock button while any door is open?",
+          "answer": "If the exterior buzzer lights up when pushing the lock button while any door is open, you should close all doors completely."
+        }
+      ]
+    },
+    {
+      "page": 41,
+      "chunk_text": "1-24\nQUICK GUIDE\nWhen\nWarning buzzer\nInstrument cluster\nCause and remedy\nWhen the engine is\nstopped \nautomati-\ncally by the ENG A-\nSTOP system\nInterior buzzer\n*2\nThe engine has restarted automatically because either of the\nfollowing conditions occurred.\n• The difference between the set temperature of the air condi-\ntioner and the interior air temperature became big.\n• The defroster is turned on.\n• Brake booster vacuum pressure is low.\n• The battery continues to be discharged.\n• 3 minutes passed after the engine is automatically stopped\nby the ENG A-STOP system.\n• The temperature selector was greatly set toward cool while\ncooling or greatly set toward hot while heating.\n• 1 Beeps\nInterior buzzer\n–\nThe engine stalled because the hood is opened after the\nengine is stopped automatically.\nTo restart the engine, follow the procedure below.\n1) Set the parking brake firmly, and then place the gearshift\nlever in the “P” position.\n2) Securely close the engine hood.\n3) Press the engine switch or the power switch to restart the\nengine.\n• 2 Beeps\nInterior buzzer\nor\nLights up\n*2\nThe engine has restarted automatically because either of the\nfollowing operations was performed.\n• The driver’s seat belt is unfastened.\n• The driver’s door is opened.\nBefore driving, close the door and buckle the seat belt. In\naddition, before getting out of the vehicle, follow the procedure\nbelow.\n1) Set the parking brake firmly, and then place the gearshift\nlever in the “P” position.\n2) When the vehicle will be stopped for a long time or when\nyou will leave the vehicle unattended, press the engine\nswitch or the power switch to stop the engine.\n• 5 beeps",
+      "question_answer_pairs": [
+        {
+          "question": "What condition causes the engine to automatically restart according to the guide?",
+          "answer": "The engine restarts automatically due to various conditions including differences in air conditioner and interior air temperatures, defrost usage, low brake booster vacuum pressure, and prolonged discharging of the battery."
+        },
+        {
+          "question": "How can you prevent the engine from automatically stopping when you are driving?",
+          "answer": "To avoid the engine from automatically stopping, ensure that the driver's seat belt is fastened and the driver's door is closed before starting the vehicle. Additionally, keep the hood securely closed and do not open it after the engine has been turned off."
+        },
+        {
+          "question": "What should you do if the engine automatically stops and you want to restart it?",
+          "answer": "If the engine automatically stops and you need to restart it, you must first set the parking brake firmly, place the gearshift lever in the 'P' position, securely close the engine hood, and then press the engine switch or the power switch to restart the engine."
+        }
+      ]
+    },
+    {
+      "page": 42,
+      "chunk_text": "1-25\nQUICK GUIDE\nFAQ\nQ&A\nRefer to the following list of frequently asked questions.\nDoor opening / closing\nQ. The keyless entry system does not work. What should I do?\nA. There is a possibility that something is interfering with the function of the keyless entry system. Refer to “Keyless\nPush Start System Remote Controller” in the “BEFORE DRIVING” section.\nA. If the battery of the keyless push start system remote controller is dead, replace it. Refer to “Battery Replacement” in\nthe “BEFORE DRIVING” section.\nQ. A loud alarm sounds when opening the door. What does this mean?\nA. The security system has been activated. Press the engine switch or the power switch to change the ignition mode to\nON to stop the alarm. For the correct method of handling, refer to “Security System” in the “BEFORE DRIVING” sec-\ntion.\nWindow glass\nQ. How can I clear fog on the inside of the windshield and door glass areas?\nA. Use the defroster switch. Refer to “Automatic Heating and Air Conditioning System (Climate Control)” in the\n“OTHER CONTROLS AND EQUIPMENT” section.\nQ. How can I clear fog on the inside of the rear window glass?\nA. Use the heated rear window switch. Refer to “Heated Rear Window Switch” in the “BEFORE DRIVING” section.",
+      "question_answer_pairs": [
+        {
+          "question": "What happens if the defroster switch doesn't work while trying to clear fog from the windshield?",
+          "answer": "If the defroster switch fails to work, you may need to manually use the windshield wipers or heat the area using the air conditioning system until the fog clears."
+        },
+        {
+          "question": "How often should the battery of the keyless push start system remote controller be checked for replacement?",
+          "answer": "It is recommended to check the battery of the keyless push start system remote controller every 6 months to ensure it is functioning properly."
+        },
+        {
+          "question": "In case the security system is activated, what other methods besides changing the ignition mode can be used to stop the alarm?",
+          "answer": "In addition to pressing the engine switch or the power switch, you can also attempt to unlock the doors using the key fob to override the security system."
+        }
+      ]
+    },
+    {
+      "page": 43,
+      "chunk_text": "1-26\nQUICK GUIDE\nTyres\nQ. I get a flat tyre. What should I do?\nA. Change the flat tyre with a spare tyre. Refer to “Tyre Changing Tool” in the “EMERGENCY SERVICE” section.\nRunning out of battery\nQ. The battery runs out and the engine does not start. What should I do?\nA. Connect the battery of a vehicle for assistance to jump leads and start the engine. Refer to “Jump-starting Instruc-\ntions” in the “EMERGENCY SERVICE” section.\nEngine oil\nQ. I would like to change the engine oil. What should I do?\nA. Refer to “Engine Oil and Filter” in the “INSPECTION AND MAINTENANCE” section and “Specifications” in the\n“SPECIFICATIONS” section.\nENG A-STOP system (if equipped)\nQ. The ENG A-STOP system does not work. What should I do?\nA. Refer to “ENG A-STOP System (Engine Auto Stop Start System) (if equipped)” in the “OPERATING YOUR VEHI-\nCLE” section.",
+      "question_answer_pairs": [
+        {
+          "question": "How often is it recommended to change the engine oil based on the information provided?",
+          "answer": "The recommendation for changing the engine oil is found in the 'INSPECTION AND MAINTENANCE' section of the guide."
+        },
+        {
+          "question": "What should I do if my car’s battery is completely dead and won’t turn over?",
+          "answer": "If your car's battery is completely dead and won't turn over, you should seek assistance by connecting another vehicle's battery through jump-starting as described in the 'EMERGENCY SERVICE' section."
+        },
+        {
+          "question": "Where can I find instructions for using the Tyre Changing Tool mentioned in the guide?",
+          "answer": "Instructions for using the Tyre Changing Tool are located in the 'EMERGENCY SERVICE' section of the guide."
+        }
+      ]
+    },
+    {
+      "page": 44,
+      "chunk_text": "1-27\nQUICK GUIDE\nElectrical equipment\nQ. The headlights or brake lights do not light up. What should I do?\nA. Check the light bulbs. Refer to “Bulb Replacement” in the “INSPECTION AND MAINTENANCE” section and “Speci-\nfications” in the “SPECIFICATIONS” section.\nQ. I cannot use an electrical device. What should I do?\nA. Check the fuses. Refer to “Fuses” in the “INSPECTION AND MAINTENANCE” section.",
+      "question_answer_pairs": [
+        {
+          "question": "What are the troubleshooting steps if the horn does not sound?",
+          "answer": "Check the relay associated with the horn. Refer to ‘Relay’ in the ‘INSPECTION AND MAINTENANCE’ section."
+        },
+        {
+          "question": "How can I determine if the problem is with the battery or the starter motor?",
+          "answer": "Inspect the battery terminals for corrosion and check the continuity of the starter motor circuit. Refer to 'Battery' and 'Starter Motor' sections in the ‘INSPECTION AND MAINTENANCE’ section."
+        },
+        {
+          "question": "If the dashboard warning lights are not working, what could be the cause?",
+          "answer": "Check the warning light circuitry. Refer to the ‘Dashboard Warning Lights’ section in the ‘SPECIFICATIONS’ section."
+        }
+      ]
+    },
+    {
+      "page": 45,
+      "chunk_text": "FOR SAFE DRIVING\n2\n76TM02010\nFOR SAFE DRIVING\nDriver’s Seat Floor .............................................................. 2-1\nSeat Belts and Child Restraint Systems ........................... 2-2\nFront Seats .......................................................................... 2-5\nTilt / Telescoping (if equipped) Steering Lock Lever ....... 2-7\nMirrors .................................................................................. 2-8\nRear Seats ............................................................................ 2-13\nSeat Utility ............................................................................ 2-14\nSafety for Child .................................................................... 2-16\nSeat Belt ............................................................................... 2-20\nHandling and Care for Seat Belt ........................................ 2-28\nSeat Belt Pretensioner System (Only for Front Seat) ...... 2-30\nSeat Belt Force Limiter System (Only for Front Seat) ..... 2-31\nChild Restraint Systems ..................................................... 2-32\nSupplemental Restraint System (Airbags) ....................... 2-48\nWhen Driving the Vehicle with SRS Airbag System ........ 2-51\nHandling for Airbags ........................................................... 2-54\nFunction of Airbags ............................................................ 2-57\nWhen Starting the Engine .................................................. 2-65\nWhen Loading the Luggage ............................................... 2-66\nHybrid system features (if equipped) ................................ 2-68",
+      "question_answer_pairs": [
+        {
+          "question": "On which page can I find information about the safety features of child restraint systems?",
+          "answer": "Information about the safety features of child restraint systems can be found on page 2-32."
+        },
+        {
+          "question": "What is the purpose of the seat belt pretensioner system in the front seats?",
+          "answer": "The seat belt pretensioner system in the front seats is designed to tighten the seat belts automatically in the event of an impact, helping to reduce the risk of whiplash injuries."
+        },
+        {
+          "question": "How should I handle the airbags when starting the engine or loading luggage?",
+          "answer": "When starting the engine or loading luggage, it is important to ensure that the vehicle is stationary and that you have cleared any potential hazards before activating the airbags."
+        }
+      ]
+    },
+    {
+      "page": 46,
+      "chunk_text": "2-1\nFOR SAFE DRIVING\nDriver’s Seat Floor\nFloor Mats\n55T020010\nTo prevent the driver’s side floor mat from\nsliding forward and possibly interfering with\nthe operation of the pedals, Maruti Suzuki\ngenuine floor mats are recommended. \nWhenever you put the driver’s side floor\nmat back in the vehicle after it has been\nremoved, hook the floor mat grommets to\nthe fasteners and position the floor mat\nproperly in the footwell.\nWhen you replace the floor mats in your\nvehicle with a different type such as all-\nweather floor mats, we highly recommend\nto use Maruti Suzuki genuine floor mats for\nproper fitting.\nClearing the Floor\n69RHS157\nExample for genuine floor mat\nWARNING\nFailure to take the following precau-\ntions may result in the driver’s side\nfloor mat interfering with the pedals\nand causing a loss of vehicle control\nor an accident.\n• Check that the floor mat grommets\nare hooked to the fasteners.\n• Never stack floor mats.\n• Never use a floor mat which does\nnot fit the floor as the same may\ncause hindrance/damage in vehicle\nand its functioning.\n• Never use damaged floor mats.\nWARNING\nDo not leave empty cans, etc. at your\nfeet. These objects may interfere with\npedal operation and cause accidents.",
+      "question_answer_pairs": [
+        {
+          "question": "What precaution should be taken before reinstalling the driver's side floor mat?",
+          "answer": "Before reinstalling the driver's side floor mat, ensure that the floor mat grommets are hooked to the fasteners and the floor mat is positioned properly in the footwell."
+        },
+        {
+          "question": "How can one identify if they have replaced their floor mats with non-Maruti Suzuki genuine mats?",
+          "answer": "One can identify if they have replaced their floor mats with non-Maruti Suzuki genuine mats by noticing any issues such as the floor mat interfering with the pedals or causing a loss of vehicle control or an accident."
+        },
+        {
+          "question": "What actions should be avoided when storing floor mats?",
+          "answer": "When storing floor mats, it is advised to avoid stacking them and using ones that do not fit the floor as these could hinder vehicle functionality or cause damage."
+        }
+      ]
+    },
+    {
+      "page": 47,
+      "chunk_text": "2-2\nFOR SAFE DRIVING\nSeat Belts and Child Restraint \nSystems\n59RN02300\n59RN02390\n59RN02400\n59RN02380\nWARNING\n• Wear your seat belts at all times.\n• An airbag supplements or adds to\nthe \nfrontal \ncollision \nprotection\noffered by seat belts. The driver\nand all passengers must be prop-\nerly restrained by wearing seat\nbelts at all times, even if driving for\na very short distance, whether or\nnot an airbag is mounted at their\nseating position, to minimize the\nrisk of severe injury or death in the\nevent of a collision.\n(Continued)\nWARNING\n(Continued)\n• Do not modify, remove, disassem-\nble seat belts. Doing so may pre-\nvent \nthem \nfrom \nfunctioning\nproperly and cause the risk of\nsevere injury or death in the event\nof a collision.\nAbove the pelvis\nAcross the pelvis\nas low as possible \nacross the hips",
+      "question_answer_pairs": [
+        {
+          "question": "What does the warning about airbags imply about the use of seat belts?",
+          "answer": "The warning implies that even with an airbag, seat belts should still be worn at all times to provide additional protection and minimize the risk of injury or death in a collision."
+        },
+        {
+          "question": "How should child restraints be positioned across the pelvis compared to seat belts?",
+          "answer": "Child restraints should be positioned across the pelvis as low as possible to ensure proper support and safety."
+        },
+        {
+          "question": "What is the general rule regarding modifications to seat belts?",
+          "answer": "It is not advisable to modify, remove, or disassemble seat belts as these actions could prevent them from functioning properly and increase the risk of severe injury or death in a collision."
+        }
+      ]
+    },
+    {
+      "page": 48,
+      "chunk_text": "2-3\nFOR SAFE DRIVING\nWARNING\n• Never allow persons to ride in the\ncargo area of a vehicle. In the event\nof an accident, there is a much\ngreater risk of injury for persons who\nare not riding in a seat with their seat\nbelt securely fastened.\n• Ensure that all seat belts are worn\ncorrectly. An improperly worn seat\nbelt increases the risk of injury or\ndeath if a collision occurs.\n• Seat belts should always be adjusted\nas follows:\n– the lap portion of the belt should\nbe worn low across the pelvis, not\nacross the waist.\n– the shoulder straps should be\nworn on the outside shoulder only,\nand never under the arm.\n– the shoulder straps should be\naway from your face and neck, but\nnot falling off your shoulder.\n• Seat belts should never be worn with\nthe straps twisted and should be\nadjusted as tightly as is comfortable\nto provide the protection for which\nthey have been designed. A slack\nbelt will provide less protection than\na snug belt.\n• Check that seat belt latch plate\n(tongue) is inserted into the proper\nbuckle especially in the rear seats. It\nis not possible to insert into the\nwrong buckles in the rear seats.\n(Continued)\nWARNING\n(Continued)\n• Pregnant women should use seat\nbelts, although specific recommen-\ndations about driving should be\nmade by the woman’s medical advi-\nsor. Remember that the lap portion of\nthe belt should be worn as low as\npossible across the hips, as shown in\nthe illustration.\n• Do not wear seat belts over hard,\nfragile, or sharp items such as pens,\nkeys, eyeglasses, etc in pockets or\non clothing. The pressure from seat\nbelt on such items can cause injury\nin case of an accident.\n59RN02440\n• Do not hold a child on a passenger's\nlap. Even if the passenger holds the\nchild tightly, he/she would not be\nsupported enough in the event of an\naccident and it could result in a seri-\nous injury of the child.\n(Continued)\nWARNING\n(Continued)\n• Never use the same seat belt for\nmore than one occupant and never\nattach a seat belt over an infant or\nchild being held on an occupant’s\nlap. Such seat belt use could cause\nserious injury in the event of an acci-\ndent.\n• Periodically inspect seat belt assem-\nblies for excessive wear and damage.\nSeat belts should be replaced if web-\nbing becomes frayed, contaminated\nor damaged in any way. It is essential\nto replace the entire seat belt assem-\nbly after it has been worn in a severe\nimpact, even if damage to the assem-\nbly is not obvious.\n• Children aged 12 and under should\nride properly restrained in the rear\nseat.\n(Continued)",
+      "question_answer_pairs": [
+        {
+          "question": "What safety recommendation is given specifically for pregnant women regarding the placement of their seat belts?",
+          "answer": "Pregnant women should use seat belts, and it is recommended that the lap portion of the belt be worn as low as possible across the hips."
+        },
+        {
+          "question": "In what situations should a seat belt be checked according to the guidelines provided?",
+          "answer": "A seat belt should be checked especially in the rear seats to ensure the tongue is inserted into the correct buckle. Additionally, seat belts should be periodically inspected for excessive wear and damage."
+        },
+        {
+          "question": "What type of items should not be placed in pockets or on clothing according to the warning provided?",
+          "answer": "Hard, fragile, or sharp items such as pens, keys, eyeglasses, etc., should not be placed in pockets or on clothing as they can cause injury in the event of an accident due to pressure from the seat belt."
+        }
+      ]
+    },
+    {
+      "page": 49,
+      "chunk_text": "2-4\nFOR SAFE DRIVING\nAdjustment before Driving\n80J014\nCorrect Use of Seat Belt\n69RHS158\n• Adjust the seat to the correct position.\nSit your body fully into the seat.\n• Make sure that the seat belt is not\ntwisted.\n• Make sure that you place the lap portion\nof the belt as low as possible across the\npelvis.\n• The upper belt should rest on the area\nmidway between the shoulder and the\nbase of the neck.\n• Confirm that the belt is not twisted in any\nway, and remove any slack.\nWARNING\n(Continued)\n• Infants and small children should\nnever be transported unless they are\nproperly restrained. Restraint sys-\ntems for infants and small children\ncan be purchased locally and should\nbe used. Check that the system you\npurchase meets applicable safety\nstandards. Read and follow all the\ndirections provided by the manufac-\nturer.\n• For child, if the seat belt irritates the\nneck or face, use a child restraint\nsystem appropriately for the child.\nThe seat belts of your vehicle are\nprincipally designed for persons of\nadult size.\n• Avoid contamination of seat belt\nwebbing by polishes, oils, chemicals,\nand particularly battery acid. Clean-\ning may safely be carried out using\nmild soap and water.\n• Do not insert any items such as coins\nand clips into the seat belt buckles,\nand be careful not to spill liquids into\nthese parts. If foreign materials get\ninto a seat belt buckle, the seat belt\nmay not work properly.\n• All seatbacks should always be in an\nupright position when driving, or seat\nbelt effectiveness may be reduced.\nSeat belts are designed to offer maxi-\nmum protection when seatbacks are\nin the upright position.\nWARNING\n• When driving, do not adjust the\nsteering wheel (only adjustable\ntype with certain specifications),\nthe seat, the inside rearview mirror\nor the outside rearview mirrors.\nOtherwise, there is the risk of mis-\ntaken operation of the steering\nwheel or reduced awareness of\nwhat is in front of you, possibly\nleading to an accident.\n• Do not tilt the seatback further\nback than necessary. Otherwise,\nthe head restraint and the seat belt\ncannot function as intended.",
+      "question_answer_pairs": [
+        {
+          "question": "What is the primary purpose of adjusting the seat to the correct position?",
+          "answer": "The primary purpose is to ensure a proper fit for the driver, allowing for better posture and comfort while driving."
+        },
+        {
+          "question": "How does the manufacturer suggest placing the lap portion of the seat belt?",
+          "answer": "The lap portion of the seat belt should be placed as low as possible across the pelvis."
+        },
+        {
+          "question": "Under what circumstances should a child restraint system be used instead of a standard seat belt?",
+          "answer": "Infants and small children should be properly restrained and use a child restraint system if the standard seat belt irritates their neck or face."
+        }
+      ]
+    },
+    {
+      "page": 50,
+      "chunk_text": "2-5\nFOR SAFE DRIVING\n77R20050\nFront Seats\nSeat Adjustment\nWARNING\n• If you do not fasten your seat belt\nproperly, your body may not be\nrestrained in a sudden braking and\na collision. This may cause severe\ninjury.\nFasten your seat belt properly\nbefore driving.\n• If all the passengers do not fasten\ntheir seat belts properly, their body\nmay not be restrained in a sudden\nbraking and a collision. This may\ncause severe injury.\nAsk all the passengers on the front\npassenger’s seat and the rear seats\nto fasten their seat belts properly\nbefore driving.\nWARNING\n• Never attempt to adjust the driver’s\nseat or seatback while driving. The\nseat or seatback could move unex-\npectedly, causing loss of control.\nCheck that the driver’s seat and\nseatback are properly adjusted\nbefore you start driving.\n• To avoid excessive seat belt slack,\nwhich reduces the effectiveness of\nthe seat belts as a safety device,\ncheck that the seats are adjusted\nbefore the seat belts are fastened.\n• All seatbacks should always be in\nan upright position when driving,\nor seat belt effectiveness may be\nreduced. Seat belts are designed to\noffer maximum protection when\nseatbacks are in the upright posi-\ntion.\n(Continued)\nWARNING\n(Continued)\n• If you place a cushion, etc. between\nthe seatback and your back, you\nmay not be able to drive the vehicle\nin a correct posture. Also, the seat\nbelt and the head restraint may not\nprovide the best performance. This\nmay cause severe injury in an acci-\ndent.\nDo not place a cushion, etc.\nbetween the seatback and your\nback.\n• Do not place any object under the\nfront seat. If an object gets stuck\nunder the front seat, the seat shall\nnot be latched properly and may\ncause injury.\n• Do not leave cigarette lighters or\nspray cans on the floor. If a ciga-\nrette lighter or spray can is on the\nfloor, it may light accidentally when\nluggage is loaded or the seat is\nadjusted, causing a fire.",
+      "question_answer_pairs": [
+        {
+          "question": "What should drivers check before starting the car to ensure the seat belts are effective?",
+          "answer": "Drivers should check that the driver's seat and seatback are properly adjusted before they start driving, and that the seats are adjusted before the seat belts are fastened."
+        },
+        {
+          "question": "Is it safe to adjust the seat or seatback while driving, according to the warning provided?",
+          "answer": "No, it is not safe to adjust the driver’s seat or seatback while driving as the seat or seatback could move unexpectedly, causing loss of control."
+        },
+        {
+          "question": "What could happen if a passenger places a cushion between the seatback and their back?",
+          "answer": "If a passenger places a cushion between the seatback and their back, they may not be able to drive the vehicle in a correct posture, and the seat belt and the head restraint may not provide the best performance, which could cause severe injury in an accident."
+        }
+      ]
+    }
+  ]
+}
